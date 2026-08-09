@@ -27,7 +27,9 @@ FCC spans AML/CFT, sanctions, AB&C, market abuse, fraud and investigative toolin
 - [Benchmarks & Datasets](#benchmarks--datasets)
 - [Certifications](#certifications)
 - [Books](#books)
-- [Regulations, Standards & Typologies](#regulations-standards--typologies)
+- [Documentaries, Movies & TV Series](#documentaries-movies--tv-series)
+- [Typologies](#typologies)
+- [Regulations & Standards](#regulations--standards)
 
 ## Vendor / Commercial Platforms
 
@@ -392,8 +394,125 @@ Commercial tools are useful for discovery:
 
 - **Dark Commerce: How a New Illicit Economy Is Threatening Our Future**
   - Louise I. Shelley
+  
+## Documentaries, Movies & TV Series
 
-## Regulations, Standards & Typologies
+Selected films, documentaries and series illustrating financial crime, fraud, corruption, market abuse, money laundering and investigative themes.
+
+### Documentaries
+
+- **Dirty Money** - Corporate fraud, corruption, financial misconduct and regulatory failures.
+- **Enron: The Smartest Guys in the Room** - Accounting fraud, corporate governance failures and financial deception.
+- **The Inventor: Out for Blood in Silicon Valley** - Corporate fraud, misrepresentation and governance failures surrounding Theranos.
+- **The Tinder Swindler** - Romance fraud, social engineering and movement of victim funds.
+- **The Panama Papers** - Offshore structures, shell companies, beneficial ownership and financial secrecy.
+
+### Movies
+
+- **The Wolf of Wall Street** - Securities fraud, market misconduct, financial crime and money laundering.
+- **The Big Short** - Financial markets, conflicts of interest, misaligned incentives and systemic risk.
+- **Margin Call** - Market risk, governance, conduct and decision-making during a financial crisis.
+- **The Laundromat** - Offshore finance, shell companies, beneficial ownership and financial secrecy.
+- **Boiler Room** - Securities fraud, high-pressure sales practices and market manipulation.
+
+### TV Series
+
+- **Ozark** - Money laundering, cash businesses, layering and organized crime.
+- **Breaking Bad** - Laundering criminal proceeds through legitimate and cash-intensive businesses.
+- **Better Call Saul** - Money laundering, front businesses, organized crime and professional facilitation.
+- **Billions** - Insider trading, market abuse, conflicts of interest and financial investigations.
+- **McMafia** - Cross-border organized crime, money laundering, corruption and illicit financial networks.
+  
+## Typologies
+
+Common financial crime and misconduct typologies relevant to detection, monitoring, investigation and risk assessment.
+
+### Anti-Money Laundering (AML)
+
+* **Structuring / Smurfing** - Breaking large transactions into smaller amounts to avoid reporting or monitoring thresholds.
+* **Money Mule Activity** - Using individuals or accounts to receive, transfer or withdraw illicit funds on behalf of criminals.
+* **Funnel Accounts** - Multiple geographically dispersed deposits followed by rapid withdrawal or transfer of funds elsewhere.
+* **Pass-Through Accounts** - Accounts showing substantial incoming and outgoing activity while maintaining unusually low balances.
+* **Round Tripping** - Funds transferred through multiple entities or jurisdictions before returning to their origin, obscuring ownership or source.
+* **Shell Company Abuse** - Using entities with little or no genuine business activity to disguise ownership, transactions or movement of funds.
+* **Trade-Based Money Laundering (TBML)** - Manipulating trade transactions, invoices, quantities, prices or documentation to transfer value.
+* **Cash-Intensive Business Abuse** - Mixing illicit proceeds with apparently legitimate cash revenues.
+* **Dormant Account Reactivation** - Previously inactive accounts suddenly exhibiting significant or unusual transaction activity.
+* **Rapid Movement of Funds** - Funds entering an account and being transferred onward shortly afterwards with limited economic rationale.
+* **Layering Through Multiple Accounts** - Moving funds through chains of accounts, entities, products or jurisdictions to obscure their origin.
+* **Money Laundering Through Virtual Assets** - Using cryptoassets, exchanges, mixers, bridges or multiple wallets to obscure transaction trails.
+
+### Fraud
+
+* **Account Takeover (ATO)** - Unauthorized control of an existing account using compromised credentials or social engineering.
+* **Authorized Push Payment (APP) Fraud** - Manipulating victims into authorizing payments to accounts controlled by fraudsters.
+* **Synthetic Identity Fraud** - Combining real and fabricated identity information to create apparently legitimate customers.
+* **First-Party Fraud** - Customers intentionally misrepresenting information or disputing legitimate transactions for financial gain.
+* **Identity Theft** - Using another person's identity or credentials to obtain funds, credit, goods or services.
+* **Card-Not-Present Fraud** - Fraudulent transactions conducted without physical presentation of the payment card.
+* **Invoice / Payment Diversion Fraud** - Manipulating invoices or payment instructions so legitimate payments are redirected.
+* **Romance and Investment Scams** - Building trust with victims before inducing payments or fraudulent investments.
+* **Merchant Fraud** - Abuse involving fraudulent merchants, transaction laundering, collusion or deceptive commercial activity.
+* **Bust-Out Fraud** - Establishing apparently legitimate credit behavior before rapidly maximizing available credit and abandoning repayment obligations.
+
+### Anti-Bribery & Corruption (AB&C)
+
+* **Kickbacks** - Returning part of a payment or contract value to an individual who influenced the underlying decision.
+* **Bribery Through Intermediaries** - Using agents, consultants, distributors or other third parties to conceal improper payments.
+* **Improper Gifts & Hospitality** - Providing excessive gifts, travel, entertainment or hospitality to improperly influence decisions.
+* **Procurement Corruption** - Manipulating tendering, vendor selection, pricing or contracting processes for improper benefit.
+* **Conflict of Interest** - Undisclosed personal or financial interests influencing professional or commercial decisions.
+* **Fictitious Vendors** - Creating or using false suppliers to divert corporate or public funds.
+* **Charitable Donation Abuse** - Using donations or sponsorships as indirect mechanisms for transferring improper benefits.
+* **Facilitation Payments** - Payments intended to expedite routine governmental or administrative actions.
+* **Political Contribution Abuse** - Using political donations or related payments to obtain improper business or regulatory advantages.
+
+### Trade Surveillance / Market Abuse
+
+* **Insider Dealing** - Trading or encouraging trading while possessing material non-public information.
+* **Spoofing** - Placing orders without genuine execution intent to create a misleading impression of supply or demand.
+* **Layering** - Placing multiple non-bona-fide orders at different price levels to influence market perception or execution.
+* **Wash Trading** - Trading without meaningful change in beneficial ownership to create artificial activity or volume.
+* **Pump and Dump** - Artificially promoting or inflating an asset's price before selling accumulated positions.
+* **Marking the Close** - Trading near market close to influence closing prices or valuation benchmarks.
+* **Front Running** - Trading ahead of known client or institutional orders to benefit from the expected price movement.
+* **Cross-Market Manipulation** - Using activity in one instrument, venue or market to manipulate the price of another.
+* **Collusive Trading** - Coordinated trading between participants intended to manipulate price, volume, liquidity or market perception.
+* **Benchmark Manipulation** - Attempting to influence prices, submissions or transactions used to calculate financial benchmarks.
+
+### E-Comms / Conduct Surveillance
+
+* **Collusion Indicators** - Communications suggesting coordination between employees, traders, counterparties or competitors.
+* **Information Leakage** - Unauthorized disclosure of confidential, client, transaction or material non-public information.
+* **Off-Channel Communications** - Conducting business through unapproved messaging platforms, personal devices or communication channels.
+* **Code Words / Euphemisms** - Using disguised language intended to conceal potentially improper conduct.
+* **Pressure or Coercion** - Communications indicating attempts to improperly influence colleagues, clients, counterparties or decision-makers.
+* **Intent to Circumvent Controls** - Discussions about avoiding surveillance, approvals, reporting requirements or internal controls.
+* **Inappropriate Information Sharing** - Sharing restricted information across information barriers or with unauthorized recipients.
+* **Communication-Trading Correlation** - Suspicious communications occurring shortly before or during potentially abusive trading activity.
+
+### Sanctions Evasion
+
+* **Intermediary / Front Company Use** - Routing transactions through third parties or companies to conceal involvement of sanctioned parties.
+* **Ownership and Control Obfuscation** - Using complex ownership structures to hide sanctioned beneficial owners or controllers.
+* **Payment Routing Through Third Countries** - Routing payments through jurisdictions or institutions intended to obscure sanctioned exposure.
+* **Vessel Identity Manipulation** - Changing vessel names, flags, ownership, registration or identification information.
+* **AIS Manipulation / Dark Activity** - Disabling or manipulating vessel tracking systems to conceal movements or transfers.
+* **Transshipment and Origin Concealment** - Moving goods through intermediary jurisdictions to disguise their true origin or destination.
+* **Invoice and Documentation Manipulation** - Altering trade documentation to hide sanctioned goods, entities, jurisdictions or counterparties.
+* **Virtual Asset Sanctions Evasion** - Using cryptoassets, multiple wallets, mixers or decentralized services to circumvent restrictions.
+
+### KYC / Customer Risk
+
+* **Beneficial Ownership Concealment** - Using layered legal entities, nominees, trusts or intermediaries to obscure ultimate ownership.
+* **Nominee Directors / Shareholders** - Using individuals who formally hold positions or ownership on behalf of undisclosed controllers.
+* **False or Synthetic Identity** - Providing fabricated, altered, stolen or combined identity information during onboarding.
+* **Address / Contact Reuse** - Multiple apparently unrelated customers sharing addresses, phone numbers, emails, devices or other identifiers.
+* **Unexplained High-Risk Jurisdiction Exposure** - Customer relationships or activity involving higher-risk jurisdictions without credible rationale.
+* **Business Profile Mismatch** - Customer transactions materially inconsistent with declared occupation, business model, expected activity or source of funds.
+* **Rapid Changes in Ownership or Control** - Frequent or unexplained changes to shareholders, directors, beneficial owners or corporate structure.
+
+## Regulations & Standards
 
 - FATF - Recommendations & typology reports (AML/CFT)
 
