@@ -1,3 +1,10 @@
 Archive/
 Notes/
 Releases/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated release documentation
+dist/
