@@ -1,4 +1,5 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Awesome](https://img.shields.io/badge/Awesome-List-6F42C1?logo=awesomelists&logoColor=white)
+[![Link Check](https://img.shields.io/github/actions/workflow/status/SKR-35/Awesome-Financial-Crime/link-check.yml?branch=master&label=Link%20Check&logo=githubactions&logoColor=white&color=2088FF)](https://github.com/SKR-35/Awesome-Financial-Crime/actions/workflows/link-check.yml)
 
 # Awesome Financial Crime
 
