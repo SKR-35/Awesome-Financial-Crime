@@ -368,7 +368,11 @@ Commercial tools are useful for discovery:
 
 - Association of Certified Sanctions Specialists (ACSS)
 
-    - https://www.acams.org/acss
+    - https://sanctionsassociation.org/
+	
+- Certified Global Sanctions Specialist (CGSS)
+
+	- https://www.acams.org/en/certifications/certified-global-sanctions-specialist-cgss
 
 ### Audit & Risk
 
@@ -394,7 +398,7 @@ Commercial tools are useful for discovery:
 - **Money Laundering: A Guide for Criminal Investigators**
   - John Madinger
 
-- **Dirty Entanglements: Corruption, Crime, and Terrorism**
+- **Dirty Entanglements: Corruption, Crime and Terrorism**
   - Louise I. Shelley
 
 - **The World's Banker**
@@ -402,7 +406,7 @@ Commercial tools are useful for discovery:
 
 ### Fraud
 
-- **Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques**
+- **Fraud Analytics Using Descriptive, Predictive and Social Network Techniques**
   - Bart Baesens
 
 - **Financial Shenanigans**
@@ -455,7 +459,7 @@ Selected films, documentaries and series illustrating financial crime, fraud, co
 
 - **Ozark** - Money laundering, cash businesses, layering and organized crime.
 - **Breaking Bad** - Laundering criminal proceeds through legitimate and cash-intensive businesses.
-- **Better Call Saul** - Money laundering, front businesses, organized crime and professional facilitation.
+- **Better Call Saul** - Money laundering, front businesses organized crime and professional facilitation.
 - **Billions** - Insider trading, market abuse, conflicts of interest and financial investigations.
 - **McMafia** - Cross-border organized crime, money laundering, corruption and illicit financial networks.
   
@@ -554,11 +558,11 @@ Common financial crime and misconduct typologies relevant to detection, monitori
 
 - FATF Recommendations - Global standards for combating money laundering, terrorist financing and proliferation financing.
 
-    - <a href="https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html" target="_blank" rel="noopener noreferrer">Official Page</a>
+	- <a href="https://www.fatf-gafi.org/en/topics/fatf-recommendations.html" target="_blank" rel="noopener noreferrer">Official Page</a>
 
 - FATF Risk-Based Approach Guidance - Guidance and resources for applying risk-based AML/CFT supervision and controls.
 
-    - <a href="https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatfguidanceontherisk-basedapproachtocombatingmoneylaunderingandterroristfinancing-highlevelprinciplesandprocedures.html" target="_blank" rel="noopener noreferrer">Official Page</a>
+	- <a href="https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-rba-supervision.html" target="_blank" rel="noopener noreferrer">Official Page</a>
 
 - Basel Committee - Sound Management of Risks Related to Money Laundering and Financing of Terrorism - Banking-sector guidance on AML/CFT governance and risk management.
 
