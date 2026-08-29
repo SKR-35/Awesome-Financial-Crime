@@ -1,0 +1,40 @@
+name: Link Check
+
+on:
+  push:
+    paths:
+      - "README.md"
+      - ".github/workflows/link-check.yml"
+
+  pull_request:
+    paths:
+      - "README.md"
+      - ".github/workflows/link-check.yml"
+
+  schedule:
+    - cron: "0 6 * * 1"
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  link-check:
+    name: Check README links
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2.9.0
+        with:
+          args: >
+            --verbose
+            --no-progress
+            --max-retries 3
+            --timeout 20
+            README.md
+          fail: true
