@@ -29,7 +29,7 @@ Financial crime spans AML/CFT, sanctions, AB&C, market abuse, fraud and investig
 - [Books](#books)
 - [Documentaries, Movies & TV Series](#documentaries-movies--tv-series)
 - [Typologies](#typologies)
-- [Regulations & Standards](#regulations--standards)
+- [Regulations, Standards & Guidance](#regulations-standards--guidance)
 
 ## Vendor / Commercial Platforms
 
@@ -93,12 +93,36 @@ Commercial tools are useful for discovery:
 
 - Apache Flink - Streaming engine for real-time TM pipelines. 
 	- <a href="https://github.com/apache/flink" target="_blank" rel="noopener noreferrer">GitHub</a>
+	
+- Drools - Business rules engine suitable for deterministic AML transaction-monitoring scenarios and rule-based alerting.
+
+    - <a href="https://github.com/kiegroup/drools" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+- Apache Kafka - Event streaming platform for high-volume transaction ingestion and near-real-time monitoring pipelines.
+
+    - <a href="https://github.com/apache/kafka" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+- Apache Spark - Distributed processing framework for large-scale transaction monitoring, feature engineering and batch detection.
+
+    - <a href="https://github.com/apache/spark" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ## Trade Surveillance (Market Abuse)
 
 - TimescaleDB - Time-series SQL for order book analytics.
 
 	- <a href="https://github.com/timescale/timescaledb" target="_blank" rel="noopener noreferrer">GitHub</a>
+	
+- QuestDB - High-performance time-series database suitable for market data, order-book and surveillance analytics.
+
+    - <a href="https://github.com/questdb/questdb" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+- Apache Kafka - Streaming infrastructure for market-data and order-event ingestion.
+
+    - <a href="https://github.com/apache/kafka" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+- Polars - High-performance dataframe library useful for large-scale order and trade surveillance analytics.
+
+    - <a href="https://github.com/pola-rs/polars" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ## E-Comms / Conduct Surveillance
 
@@ -149,6 +173,18 @@ Commercial tools are useful for discovery:
 - Great Expectations - Data quality gates for KYC feeds.
 
 	- <a href="https://github.com/great-expectations/great_expectations" target="_blank" rel="noopener noreferrer">GitHub</a>
+	
+- OpenSanctions - Open-source sanctions, PEP and entity data useful for customer screening and risk assessment.
+
+    - <a href="https://github.com/opensanctions/opensanctions" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+- Splink - Probabilistic entity resolution for customer deduplication and identity matching.
+
+    - <a href="https://github.com/moj-analytical-services/splink" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+- RapidFuzz - Fast fuzzy string matching useful for names, aliases and customer-record comparison.
+
+    - <a href="https://github.com/rapidfuzz/RapidFuzz" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ## Case Management & Investigation
 
@@ -512,34 +548,82 @@ Common financial crime and misconduct typologies relevant to detection, monitori
 * **Business Profile Mismatch** - Customer transactions materially inconsistent with declared occupation, business model, expected activity or source of funds.
 * **Rapid Changes in Ownership or Control** - Frequent or unexplained changes to shareholders, directors, beneficial owners or corporate structure.
 
-## Regulations & Standards
+## Regulations, Standards & Guidance
 
-- FATF - Recommendations & typology reports (AML/CFT)
+### Global AML / CFT
 
-	- <a href="https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html" target="_blank" rel="noopener noreferrer">Official Page</a>
+- FATF Recommendations - Global standards for combating money laundering, terrorist financing and proliferation financing.
 
-- Wolfsberg Group
+    - <a href="https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html" target="_blank" rel="noopener noreferrer">Official Page</a>
 
-	- <a href="https://wolfsberg-group.org/" target="_blank" rel="noopener noreferrer">Official Page</a>
+- FATF Risk-Based Approach Guidance - Guidance and resources for applying risk-based AML/CFT supervision and controls.
 
-- FinCEN Advisories
+    - <a href="https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatfguidanceontherisk-basedapproachtocombatingmoneylaunderingandterroristfinancing-highlevelprinciplesandprocedures.html" target="_blank" rel="noopener noreferrer">Official Page</a>
 
-	- <a href="https://www.fincen.gov/resources/advisoriesbulletinsfact-sheets/advisories" target="_blank" rel="noopener noreferrer">Official Page</a>
+- Basel Committee - Sound Management of Risks Related to Money Laundering and Financing of Terrorism - Banking-sector guidance on AML/CFT governance and risk management.
 
-- EU AML Directives / AMLA
+    - <a href="https://www.bis.org/bcbs/publ/d505.htm" target="_blank" rel="noopener noreferrer">Official Page</a>
 
-	- <a href="https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism-eu-level_en" target="_blank" rel="noopener noreferrer">Official Page</a>
+- EU Anti-Money Laundering Framework / AMLA - European AML/CFT regulatory framework and the EU Anti-Money Laundering Authority.
 
-	- <a href="https://www.amla.europa.eu/index_en" target="_blank" rel="noopener noreferrer">Official Page</a>
+    - <a href="https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism-eu-level_en" target="_blank" rel="noopener noreferrer">European Commission</a>
 
-- OFAC Guidance
+    - <a href="https://www.amla.europa.eu/index_en" target="_blank" rel="noopener noreferrer">AMLA</a>
 
-	- <a href="https://ofac.treasury.gov/" target="_blank" rel="noopener noreferrer">Official Page</a>
+### Banking & Industry Guidance
 
-- FCA Market Abuse Guidance
+- Wolfsberg Group - Industry principles and guidance for financial crime risk management.
 
-	- <a href="https://www.fca.org.uk/markets/market-abuse" target="_blank" rel="noopener noreferrer">Official Page</a>
+    - <a href="https://wolfsberg-group.org/" target="_blank" rel="noopener noreferrer">Official Page</a>
 
+- Wolfsberg Group Resources - Practical guidance and standards for financial crime risk management professionals.
+
+    - <a href="https://wolfsberg-group.org/resources" target="_blank" rel="noopener noreferrer">Wolfsberg Resources</a>
+	
 - BIS papers
 
 	- <a href="https://www.bis.org/bispapers/index.htm" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+### Sanctions
+
+- OFAC Sanctions Programs and Guidance - Official U.S. sanctions information, compliance resources and program guidance.
+
+    - <a href="https://ofac.treasury.gov/" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+### Market Abuse
+
+- EU Market Abuse Regulation (MAR) - European regulatory framework addressing insider dealing, unlawful disclosure of inside information and market manipulation.
+
+    - <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0596" target="_blank" rel="noopener noreferrer">EUR-Lex</a>
+
+- FCA Market Abuse Guidance - UK regulatory guidance and resources concerning market abuse.
+
+    - <a href="https://www.fca.org.uk/markets/market-abuse" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+### Anti-Bribery & Corruption
+
+- UK Bribery Act 2010 Guidance - Official guidance for commercial organizations on procedures designed to prevent bribery.
+
+    - <a href="https://www.gov.uk/government/publications/bribery-act-2010-guidance" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+- DOJ / SEC FCPA Resource Guide - Detailed guidance on the U.S. Foreign Corrupt Practices Act, enforcement principles and corporate compliance expectations.
+
+    - <a href="https://www.justice.gov/criminal/criminal-fraud/fcpa-resource-guide" target="_blank" rel="noopener noreferrer">DOJ Official Page</a>
+
+- United Nations Convention against Corruption (UNCAC) - International framework covering corruption prevention, criminalization, international cooperation and asset recovery.
+
+    - <a href="https://www.unodc.org/unodc/en/corruption/uncac.html" target="_blank" rel="noopener noreferrer">UNODC Official Page</a>
+
+### Financial Intelligence
+
+- FinCEN Advisories - Official advisories addressing financial crime threats, typologies and suspicious financial activity.
+
+    - <a href="https://www.fincen.gov/resources/advisoriesbulletinsfact-sheets/advisories" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+- Egmont Group - International cooperation, standards and knowledge resources for Financial Intelligence Units (FIUs).
+
+    - <a href="https://egmontgroup.org/" target="_blank" rel="noopener noreferrer">Official Page</a>
+
+- Egmont Group Core Documents - Principles and operational guidance supporting cooperation and information exchange between FIUs.
+
+    - <a href="https://egmontgroup.org/resource_type/core-documents/" target="_blank" rel="noopener noreferrer">Core Documents</a>
