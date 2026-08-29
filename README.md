@@ -1,10 +1,10 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Awesome-FCC
+# Awesome Financial Crime
 
 A curated list of Financial Crime Compliance (FCC) resources: transaction monitoring, trade surveillance, e-comms surveillance, fraud detection, case management, sanctions screening, KYC/KYB, graph analytics, datasets, regulations and more.
 
-FCC spans AML/CFT, sanctions, AB&C, market abuse, fraud and investigative tooling. This list aims to be practical, vendor-neutral and signal-rich.
+Financial crime spans AML/CFT, sanctions, AB&C, market abuse, fraud and investigative tooling. This list aims to be practical, vendor-neutral and signal-rich.
 
 ## Table of Contents
 
@@ -206,7 +206,7 @@ Commercial tools are useful for discovery:
 
 ## Data Ingestion, ETL & Quality
 
-- Airflow - Batch orchestration for FCC pipelines.
+- Airflow - Batch orchestration for financial crime pipelines.
 
 	- <a href="https://github.com/apache/airflow" target="_blank" rel="noopener noreferrer">GitHub</a>
 	
@@ -224,7 +224,7 @@ Commercial tools are useful for discovery:
 
 	- <a href="https://github.com/sdv-dev/SDV" target="_blank" rel="noopener noreferrer">GitHub</a>
 
-- Gretel / YData - Tools to generate privacy-preserving FCC datasets.
+- Gretel / YData - Tools to generate privacy-preserving financial crime datasets.
 
 	- <a href="https://github.com/gretelai/gretel-synthetics" target="_blank" rel="noopener noreferrer">Gretel GitHub</a>
 	
@@ -244,7 +244,7 @@ Commercial tools are useful for discovery:
 
 ## MLOps, Monitoring & Drift Detection
 
-- MLflow - Model tracking, registry, experiment mgmt for FCC models.
+- MLflow - Model tracking, registry, experiment mgmt for financial crime models.
 
 	- <a href="https://github.com/mlflow/mlflow" target="_blank" rel="noopener noreferrer">GitHub</a>
 
@@ -262,13 +262,13 @@ Commercial tools are useful for discovery:
 
 	- <a href="https://github.com/alteryx/featuretools" target="_blank" rel="noopener noreferrer">GitHub</a>
 	
-- Feast - Feature store for reusable FCC features.
+- Feast - Feature store for reusable financial crime features.
 
 	- <a href="https://github.com/feast-dev/feast" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ## Explainability & Model Risk
 
-- SHAP - Local/global explanations for FCC models.
+- SHAP - Local/global explanations for financial crime models.
 
 	- <a href="https://github.com/shap/shap" target="_blank" rel="noopener noreferrer">GitHub</a>
 	
