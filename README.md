@@ -87,9 +87,9 @@ Commercial tools are useful for discovery:
 	- <a href="https://github.com/questdb" target="_blank" rel="noopener noreferrer">QuestDB GitHub</a>
 	
 - Elliptic - Wallet & transaction screening for AML compliance
+ 	- <a href="https://www.elliptic.co/solutions/screening" target="_blank" rel="noopener noreferrer">Official Page</a>
+	
 - [AI DECISIONS](https://aidecisions.ai) - Multi-chain wallet screening API (Ethereum, Bitcoin, Tron, Base, Arbitrum, Gnosis): sanctions, mixer exposure, risk tier; free tier and a free public checker.
-
-	- <a href="https://www.elliptic.co/solutions/screening" target="_blank" rel="noopener noreferrer">Official Page</a>
 
 ## Transaction Monitoring (AML)
 
@@ -229,9 +229,10 @@ Commercial tools are useful for discovery:
 	- <a href="https://github.com/pyg-team/pytorch_geometric" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 - DGL (Deep Graph Library) - Scalable graph learning.
-- [openheads](https://github.com/ai-decisions/openheads) - Training code for a GNN financial-crime detector over a multi-chain transaction graph (warm-start recipe, threshold calibration), Apache-2.0.
 
 	- <a href="https://github.com/dmlc/dgl" target="_blank" rel="noopener noreferrer">GitHub</a>
+  
+- [openheads](https://github.com/ai-decisions/openheads) - Training code for a GNN financial-crime detector over a multi-chain transaction graph (warm-start recipe, threshold calibration), Apache-2.0.	
 
 ## Entity Resolution & Master Data
 
@@ -278,9 +279,10 @@ Commercial tools are useful for discovery:
     - <a href="https://github.com/joke2k/faker" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 - Mimesis - Synthetic profile generation.
-- [openabm](https://github.com/ai-decisions/openabm) - Agent-based simulator of money-laundering networks with a pluggable detector for adversarial evaluation, Apache-2.0.
 
 	- <a href="https://github.com/lk-geimfari/mimesis" target="_blank" rel="noopener noreferrer">GitHub</a>
+  
+- [openabm](https://github.com/ai-decisions/openabm) - Agent-based simulator of money-laundering networks with a pluggable detector for adversarial evaluation, Apache-2.0.	
 
 ## MLOps, Monitoring & Drift Detection
 
@@ -343,9 +345,10 @@ Commercial tools are useful for discovery:
 	- <a href="https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml" target="_blank" rel="noopener noreferrer">Kaggle</a>
 	
 - Kaggle Credit Card Fraud Detection
-- [openlabels](https://github.com/ai-decisions/openlabels) / [openeval](https://github.com/ai-decisions/openeval) - Primary-source crypto address label tooling (OFAC SDN, 9 VASP registers, TagPack export) and an evaluation harness with lead-time replay against public designations, Apache-2.0.
-
+  
 	- <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud" target="_blank" rel="noopener noreferrer">Kaggle</a>
+
+- [openlabels](https://github.com/ai-decisions/openlabels) / [openeval](https://github.com/ai-decisions/openeval) - Primary-source crypto address label tooling (OFAC SDN, 9 VASP registers, TagPack export) and an evaluation harness with lead-time replay against public designations, Apache-2.0.
 
 ## Certifications
 
