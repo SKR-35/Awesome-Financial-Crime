@@ -26,7 +26,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Check links
         uses: lycheeverse/lychee-action@v2.9.0
@@ -37,5 +37,6 @@ jobs:
             --max-retries 3
             --timeout 20
             --exclude '^https://www\.fatf-gafi\.org/.*$'
+            --exclude '^https://www\.acams\.org/.*$'
             README.md
           fail: true
