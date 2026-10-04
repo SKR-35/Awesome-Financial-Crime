@@ -142,11 +142,7 @@ Commercial tools are useful for discovery:
 
 	- <a href="https://github.com/yzhao062/pyod" target="_blank" rel="noopener noreferrer">GitHub</a>
 
-- River - Online ML for streaming fraud detection.
-
-	- <a href="https://riverml.xyz/" target="_blank" rel="noopener noreferrer">Official Page</a>
-
-	- <a href="https://github.com/online-ml/river" target="_blank" rel="noopener noreferrer">River GitHub</a>
+- River - Online ML for streaming fraud detection. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://riverml.xyz/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/online-ml/river)
 
 - XGBoost / LightGBM - Gradient boosting baselines for tabular fraud.
 
