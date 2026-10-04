@@ -144,11 +144,7 @@ Commercial tools are useful for discovery:
 
 - River - Online ML for streaming fraud detection. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://riverml.xyz/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/online-ml/river)
 
-- XGBoost / LightGBM - Gradient boosting baselines for tabular fraud.
-
-	- <a href="https://github.com/dmlc/xgboost" target="_blank" rel="noopener noreferrer">xgboost GitHub</a>
-	
-	- <a href="https://github.com/microsoft/LightGBM" target="_blank" rel="noopener noreferrer">LightGBM GitHub</a>
+- XGBoost / LightGBM - Gradient boosting baselines for tabular fraud. [![Code](https://img.shields.io/badge/Code-GitHub-XGBoost-2DA44E)](https://github.com/dmlc/xgboost) [![Code](https://img.shields.io/badge/Code-GitHub-LightGBM-2DA44E)](https://github.com/microsoft/LightGBM)
 
 ## Sanctions & Screening
 
