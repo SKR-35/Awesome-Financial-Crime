@@ -54,9 +54,9 @@ Commercial tools are useful for discovery:
 	
 - Elliptic - Wallet & transaction screening for AML compliance. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.elliptic.co/solutions/screening)
 	
-- [AI DECISIONS](https://aidecisions.ai) - Multi-chain wallet screening API (Ethereum, Bitcoin, Tron, Base, Arbitrum, Gnosis): sanctions, mixer exposure, risk tier; free tier and a free public checker.
+- AI DECISIONS - Multi-chain wallet screening API (Ethereum, Bitcoin, Tron, Base, Arbitrum, Gnosis): sanctions, mixer exposure, risk tier; free tier and a free public checker. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://aidecisions.ai)
 
-- [SanctionsKit](https://www.sanctionskit.com/product/api) - Sanctions screening API and review dashboard for checking people and companies, with source-linked results. Free synthetic sandbox; paid production screening.
+- SanctionsKit - Sanctions screening API and review dashboard for checking people and companies, with source-linked results. Free synthetic sandbox; paid production screening. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.sanctionskit.com/product/api) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/SanctionsKit)
 
 ## Transaction Monitoring (AML)
 
@@ -132,7 +132,7 @@ Commercial tools are useful for discovery:
 
 - DGL (Deep Graph Library) - Scalable graph learning. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/dmlc/dgl)
   
-- [openheads](https://github.com/ai-decisions/openheads) - Training code for a GNN financial-crime detector over a multi-chain transaction graph (warm-start recipe, threshold calibration), Apache-2.0.	
+- openheads - Training code for a GNN financial-crime detector over a multi-chain transaction graph (warm-start recipe, threshold calibration). [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/ai-decisions/openheads)
 
 ## Entity Resolution & Master Data
 
@@ -160,7 +160,7 @@ Commercial tools are useful for discovery:
 
 - Mimesis - Synthetic profile generation. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/lk-geimfari/mimesis)
   
-- [openabm](https://github.com/ai-decisions/openabm) - Agent-based simulator of money-laundering networks with a pluggable detector for adversarial evaluation, Apache-2.0.	
+- openabm - Agent-based simulator of money-laundering networks with a pluggable detector for adversarial evaluation. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/ai-decisions/openabm)
 
 ## MLOps, Monitoring & Drift Detection
 
@@ -196,7 +196,7 @@ Commercial tools are useful for discovery:
 	
 - Kaggle Credit Card Fraud Detection. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
-- [openlabels](https://github.com/ai-decisions/openlabels) / [openeval](https://github.com/ai-decisions/openeval) - Primary-source crypto address label tooling (OFAC SDN, 9 VASP registers, TagPack export) and an evaluation harness with lead-time replay against public designations, Apache-2.0.
+- openlabels / openeval - Primary-source crypto address label tooling (OFAC SDN, 9 VASP registers, TagPack export) and an evaluation harness with lead-time replay against public designations. [![Code](https://img.shields.io/badge/Code-openlabels-2DA44E)](https://github.com/ai-decisions/openlabels) [![Code](https://img.shields.io/badge/Code-openeval-2DA44E)](https://github.com/ai-decisions/openeval)
 
 ## Certifications
 
