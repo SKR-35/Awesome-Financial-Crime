@@ -48,37 +48,9 @@ Commercial tools are useful for discovery:
 
 - Featurespace - Adaptive behavioral fraud analytics. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.featurespace.com/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/Featurespace)
 
-- Behavox / Shield / Smarsh - E-comms surveillance stacks.
+- Behavox / Shield / Smarsh - E-comms surveillance stacks. [![Website](https://img.shields.io/badge/Website-Behavox-2F80ED)](https://www.behavox.com/) [![Website](https://img.shields.io/badge/Website-Shield-2F80ED)](https://www.shieldfc.com/) [![Website](https://img.shields.io/badge/Website-Smarsh-2F80ED)](https://www.smarsh.com/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/smarsh)
 
-	- <a href="" target="_blank" rel="noopener noreferrer">Behavox Official Page</a>
-	
-	[![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.behavox.com/)
-	
-	- <a href="https://www.shieldfc.com/" target="_blank" rel="noopener noreferrer">Shield Official Page</a>
-	
-	[![Website](https://img.shields.io/badge/Website-Link-2F80ED)]()
-	
-	- <a href="https://www.smarsh.com/" target="_blank" rel="noopener noreferrer">Smarsh Official Page</a>
-	
-	[![Website](https://img.shields.io/badge/Website-Link-2F80ED)]()
-	
-	[![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/smarsh)
-
-- Solidus / ACA / QuestDB - Trade surveillance.
-
-	- <a href="https://www.soliduslabs.com/solutions/trade-surveillance" target="_blank" rel="noopener noreferrer">Solidus Official Page</a>
-	
-	[![Website](https://img.shields.io/badge/Website-Link-2F80ED)]()
-	
-	- <a href="https://www.acaglobal.com/technology/surveillance-monitoring/market-abuse-surveillance/" target="_blank" rel="noopener noreferrer">ACA Official Page</a>
-	
-	[![Website](https://img.shields.io/badge/Website-Link-2F80ED)]()
-	
-	- <a href="https://questdb.com/glossary/real-time-trade-surveillance/" target="_blank" rel="noopener noreferrer">QuestDB Official Page</a>
-	
-	[![Website](https://img.shields.io/badge/Website-Link-2F80ED)]()
-	
-	[![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/questdb)
+- Solidus / ACA / QuestDB - Trade surveillance. [![Website](https://img.shields.io/badge/Website-Solidus-2F80ED)](https://www.soliduslabs.com/solutions/trade-surveillance) ![Website](https://img.shields.io/badge/Website-ACA-2F80ED)](https://www.acaglobal.com/technology/surveillance-monitoring/market-abuse-surveillance/) [![Website](https://img.shields.io/badge/Website-QuestDB-2F80ED)](https://questdb.com/glossary/real-time-trade-surveillance/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/questdb)
 	
 - Elliptic - Wallet & transaction screening for AML compliance. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.elliptic.co/solutions/screening)
 	
@@ -216,11 +188,7 @@ Commercial tools are useful for discovery:
 
 - IEEE-CIS Fraud - Financial transactions fraud dataset (imbalanced). [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.kaggle.com/competitions/ieee-fraud-detection)
 
-- Elliptic Bitcoin AML - Crypto AML labels for addresses/tx.
-
-	- <a href="https://www.elliptic.co/media-center/elliptic-releases-bitcoin-transactions-data" target="_blank" rel="noopener noreferrer">Official Page</a>
-	
-	- <a href="https://www.kaggle.com/datasets/ellipticco/elliptic-data-set" target="_blank" rel="noopener noreferrer">Kaggle</a>
+- Elliptic Bitcoin AML - Crypto AML labels for addresses/tx. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)]()https://www.elliptic.co/media-center/elliptic-releases-bitcoin-transactions-data [![Website](https://img.shields.io/badge/Website-Kaggle-2F80ED)](https://www.kaggle.com/datasets/ellipticco/elliptic-data-set)
 	
 - PaySim - Mobile money fraud simulation dataset. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/EdgarLopezPhD/PaySim)
 
@@ -432,11 +400,7 @@ Common financial crime and misconduct typologies relevant to detection, monitori
 
 - Basel Committee - Sound Management of Risks Related to Money Laundering and Financing of Terrorism - Banking-sector guidance on AML/CFT governance and risk management. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.bis.org/bcbs/publ/d505.htm)
 
-- EU Anti-Money Laundering Framework / AMLA - European AML/CFT regulatory framework and the EU Anti-Money Laundering Authority.
-
-    - <a href="https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism-eu-level_en" target="_blank" rel="noopener noreferrer">European Commission</a>
-
-    - <a href="https://www.amla.europa.eu/index_en" target="_blank" rel="noopener noreferrer">AMLA</a>
+- EU Anti-Money Laundering Framework / AMLA - European AML/CFT regulatory framework and the EU Anti-Money Laundering Authority. [![Website](https://img.shields.io/badge/Website-EU-2F80ED)](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism-eu-level_en) [![Website](https://img.shields.io/badge/Website-AMLA-2F80ED)](https://www.amla.europa.eu/index_en)
 
 ### Banking & Industry Guidance
 
