@@ -48,13 +48,13 @@ Commercial tools are useful for discovery:
 
 	- <a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noopener noreferrer">Official Page</a>
 	
-	- <a href="https://github.com/sassoftware" target="_blank" rel="noopener noreferrer">GitHub</a>
+	[![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/sassoftware)
 
 - SymphonyAI NetReveal - AML, fraud and KYC risk.
 
 	- <a href="https://www.symphonyai.com/financial-services/netreveal-transaction-monitoring/" target="_blank" rel="noopener noreferrer">Official Page</a>
 	
-	- <a href="https://github.com/symphonyai-accelerate" target="_blank" rel="noopener noreferrer">GitHub</a>
+	[![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/symphonyai-accelerate)
 
 - Quantexa - Entity resolution & network analytics.
 
@@ -64,7 +64,7 @@ Commercial tools are useful for discovery:
 
 	- <a href="https://www.featurespace.com/" target="_blank" rel="noopener noreferrer">Official Page</a>
 	
-	- <a href="https://github.com/Featurespace" target="_blank" rel="noopener noreferrer">GitHub</a>
+	[![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/Featurespace)
 
 - Behavox / Shield / Smarsh - E-comms surveillance stacks.
 
@@ -74,7 +74,7 @@ Commercial tools are useful for discovery:
 	
 	- <a href="https://www.smarsh.com/" target="_blank" rel="noopener noreferrer">Smarsh Official Page</a>
 	
-	- <a href="https://github.com/smarsh" target="_blank" rel="noopener noreferrer">Smarsh GitHub</a>
+	[![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/smarsh)
 
 - Solidus / ACA / QuestDB - Trade surveillance.
 
@@ -84,7 +84,7 @@ Commercial tools are useful for discovery:
 	
 	- <a href="https://questdb.com/glossary/real-time-trade-surveillance/" target="_blank" rel="noopener noreferrer">QuestDB Official Page</a>
 	
-	- <a href="https://github.com/questdb" target="_blank" rel="noopener noreferrer">QuestDB GitHub</a>
+	[![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/questdb)
 	
 - Elliptic - Wallet & transaction screening for AML compliance
  	- <a href="https://www.elliptic.co/solutions/screening" target="_blank" rel="noopener noreferrer">Official Page</a>
@@ -95,38 +95,23 @@ Commercial tools are useful for discovery:
 
 ## Transaction Monitoring (AML)
 
-- Apache Flink - Streaming engine for real-time TM pipelines. 
-	- <a href="https://github.com/apache/flink" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Apache Flink - Streaming engine for real-time TM pipelines. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/apache/flink)
 	
-- Drools - Business rules engine suitable for deterministic AML transaction-monitoring scenarios and rule-based alerting.
+- Drools - Business rules engine suitable for deterministic AML transaction-monitoring scenarios and rule-based alerting. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/kiegroup/drools)
 
-    - <a href="https://github.com/kiegroup/drools" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Apache Kafka - Event streaming platform for high-volume transaction ingestion and near-real-time monitoring pipelines. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/apache/kafka)
 
-- Apache Kafka - Event streaming platform for high-volume transaction ingestion and near-real-time monitoring pipelines.
-
-    - <a href="https://github.com/apache/kafka" target="_blank" rel="noopener noreferrer">GitHub</a>
-
-- Apache Spark - Distributed processing framework for large-scale transaction monitoring, feature engineering and batch detection.
-
-    - <a href="https://github.com/apache/spark" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Apache Spark - Distributed processing framework for large-scale transaction monitoring, feature engineering and batch detection. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/apache/spark)
 
 ## Trade Surveillance (Market Abuse)
 
-- TimescaleDB - Time-series SQL for order book analytics.
-
-	- <a href="https://github.com/timescale/timescaledb" target="_blank" rel="noopener noreferrer">GitHub</a>
+- TimescaleDB - Time-series SQL for order book analytics. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/timescale/timescaledb)
 	
-- QuestDB - High-performance time-series database suitable for market data, order-book and surveillance analytics.
+- QuestDB - High-performance time-series database suitable for market data, order-book and surveillance analytics. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/questdb/questdb)
 
-    - <a href="https://github.com/questdb/questdb" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Apache Kafka - Streaming infrastructure for market-data and order-event ingestion. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/apache/kafka)
 
-- Apache Kafka - Streaming infrastructure for market-data and order-event ingestion.
-
-    - <a href="https://github.com/apache/kafka" target="_blank" rel="noopener noreferrer">GitHub</a>
-
-- Polars - High-performance dataframe library useful for large-scale order and trade surveillance analytics.
-
-    - <a href="https://github.com/pola-rs/polars" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Polars - High-performance dataframe library useful for large-scale order and trade surveillance analytics. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/pola-rs/polars)
 
 ## E-Comms / Conduct Surveillance
 
@@ -170,73 +155,45 @@ Commercial tools are useful for discovery:
 	
 	- <a href="https://github.com/elastic/elasticsearch" target="_blank" rel="noopener noreferrer">Elasticsearch GitHub</a>
 
-- OpenSearch - Elastic alternative for investigations.
+- OpenSearch - Elastic alternative for investigations. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/opensearch-project/OpenSearch)
 	
-	- <a href="https://github.com/opensearch-project/OpenSearch" target="_blank" rel="noopener noreferrer">OpenSearch GitHub</a>
-	
-- Apache Superset - Investigation dashboards.
-	
-	- <a href="https://github.com/apache/superset" target="_blank" rel="noopener noreferrer">Apache Superset GitHub</a>
+- Apache Superset - Investigation dashboards. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/apache/superset)
 
 ## Graph & Link Analysis
 
-- NetworkX - Graph feature engineering (centrality, motifs).
+- NetworkX - Graph feature engineering (centrality, motifs). [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/networkx/networkx)
 
-	- <a href="https://github.com/networkx/networkx" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Neo4j - Labeled-property graph DB for rings & money-mules. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/neo4j/neo4j)
 
-- Neo4j - Labeled-property graph DB for rings & money-mules.
+- Memgraph - Real-time graph with Cypher for streaming rings. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/memgraph/memgraph)
 
-	- <a href="https://github.com/neo4j/neo4j" target="_blank" rel="noopener noreferrer">GitHub</a>
-
-- Memgraph - Real-time graph with Cypher for streaming rings.
-
-	- <a href="https://github.com/memgraph/memgraph" target="_blank" rel="noopener noreferrer">GitHub</a>
-
-- Graphistry - GPU visual analytics on alert clusters.
-
-	- <a href="https://github.com/graphistry" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Graphistry - GPU visual analytics on alert clusters. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/graphistry)
 	
 ## Graph Machine Learning
 
-- PyTorch Geometric - Graph neural networks for AML/fraud rings.
+- PyTorch Geometric - Graph neural networks for AML/fraud rings. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/pyg-team/pytorch_geometric)
 
-	- <a href="https://github.com/pyg-team/pytorch_geometric" target="_blank" rel="noopener noreferrer">GitHub</a>
-
-- DGL (Deep Graph Library) - Scalable graph learning.
-
-	- <a href="https://github.com/dmlc/dgl" target="_blank" rel="noopener noreferrer">GitHub</a>
+- DGL (Deep Graph Library) - Scalable graph learning. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/dmlc/dgl)
   
 - [openheads](https://github.com/ai-decisions/openheads) - Training code for a GNN financial-crime detector over a multi-chain transaction graph (warm-start recipe, threshold calibration), Apache-2.0.	
 
 ## Entity Resolution & Master Data
 
-- Splink - Probabilistic entity resolution at scale.
-
-	- <a href="https://github.com/moj-analytical-services/splink" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Splink - Probabilistic entity resolution at scale. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/moj-analytical-services/splink)
 	
-- Dedupe - Python entity resolution library.
-
-	- <a href="https://github.com/dedupeio/dedupe" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Dedupe - Python entity resolution library. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/dedupeio/dedupe)
 
 ## Data Ingestion, ETL & Quality
 
-- Airflow - Batch orchestration for financial crime pipelines.
-
-	- <a href="https://github.com/apache/airflow" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Airflow - Batch orchestration for financial crime pipelines. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/apache/airflow)
 	
-- Soda - Data quality testing and monitoring.
+- Soda - Data quality testing and monitoring. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/sodadata/soda-core)
 
-	- <a href="https://github.com/sodadata/soda-core" target="_blank" rel="noopener noreferrer">GitHub</a> 
-
-- Pandera - Data validation for pandas pipelines.
-
-	- <a href="https://github.com/unionai-oss/pandera" target="_blank" rel="noopener noreferrer">GitHub</a> 
+- Pandera - Data validation for pandas pipelines. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/unionai-oss/pandera)
 
 ## Synthetic Data & Simulators
 
-- SDV (Synthetic Data Vault) - Tabular synthetic data generation for model dev.
-
-	- <a href="https://github.com/sdv-dev/SDV" target="_blank" rel="noopener noreferrer">GitHub</a>
+- SDV (Synthetic Data Vault) - Tabular synthetic data generation for model dev. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/sdv-dev/SDV)
 
 - Gretel / YData - Tools to generate privacy-preserving financial crime datasets.
 
@@ -244,57 +201,35 @@ Commercial tools are useful for discovery:
 	
 	- <a href="https://github.com/ydataai" target="_blank" rel="noopener noreferrer">YData GitHub</a>
 	
-- FCC-Synthetic-TM - Reproducible FCC synthetic data factory for transaction monitoring - customers, accounts, transactions, alerts, cases - ready for analytics & model testing.
-
-	- <a href="https://github.com/SKR-35/FCC-Synthetic-TM" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Financial-Crime-Synthetic-Data - Reproducible synthetic financial crime data generator for transaction monitoring - customers, accounts, transactions and alerts, ready for analytics and model testing. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/SKR-35/Financial-Crime-Synthetic-Data)
 	
-- Faker - Synthetic customer/KYC generation.
+- Faker - Synthetic customer/KYC generation. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/joke2k/faker)
 
-    - <a href="https://github.com/joke2k/faker" target="_blank" rel="noopener noreferrer">GitHub</a>
-
-- Mimesis - Synthetic profile generation.
-
-	- <a href="https://github.com/lk-geimfari/mimesis" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Mimesis - Synthetic profile generation. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/lk-geimfari/mimesis)
   
 - [openabm](https://github.com/ai-decisions/openabm) - Agent-based simulator of money-laundering networks with a pluggable detector for adversarial evaluation, Apache-2.0.	
 
 ## MLOps, Monitoring & Drift Detection
 
-- MLflow - Model tracking, registry, experiment mgmt for financial crime models.
+- MLflow - Model tracking, registry, experiment mgmt for financial crime models. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/mlflow/mlflow)
 
-	- <a href="https://github.com/mlflow/mlflow" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Evidently AI - Data drift, concept drift, monitoring. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/evidentlyai/evidently)
 
-- Evidently AI - Data drift, concept drift, monitoring.
-
-	- <a href="https://github.com/evidentlyai/evidently" target="_blank" rel="noopener noreferrer">GitHub</a>
-
-- WhyLabs / whylogs - Data quality & model monitoring.
-
-	- <a href="https://github.com/whylabs/whylogs" target="_blank" rel="noopener noreferrer">GitHub</a>
+- WhyLabs / whylogs - Data quality & model monitoring. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/whylabs/whylogs)
 	
 ## Feature Engineering & Feature Store
 
-- Featuretools - Automated feature engineering.
-
-	- <a href="https://github.com/alteryx/featuretools" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Featuretools - Automated feature engineering. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/alteryx/featuretools)
 	
-- Feast - Feature store for reusable financial crime features.
-
-	- <a href="https://github.com/feast-dev/feast" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Feast - Feature store for reusable financial crime features. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/feast-dev/feast)
 
 ## Explainability & Model Risk
 
-- SHAP - Local/global explanations for financial crime models.
-
-	- <a href="https://github.com/shap/shap" target="_blank" rel="noopener noreferrer">GitHub</a>
+- SHAP - Local/global explanations for financial crime models. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/shap/shap)
 	
-- LIME - Local explainability for suspicious activity scoring.
+- LIME - Local explainability for suspicious activity scoring. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/marcotcr/lime)
 
-	- <a href="https://github.com/marcotcr/lime" target="_blank" rel="noopener noreferrer">GitHub</a>
-
-- Fairlearn - Bias/fairness monitoring.
-
-	- <a href="https://github.com/fairlearn/fairlearn" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Fairlearn - Bias/fairness monitoring. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/fairlearn/fairlearn)
 
 ## Benchmarks & Datasets
 
@@ -308,13 +243,9 @@ Commercial tools are useful for discovery:
 	
 	- <a href="https://www.kaggle.com/datasets/ellipticco/elliptic-data-set" target="_blank" rel="noopener noreferrer">Kaggle</a>
 	
-- PaySim - Mobile money fraud simulation dataset.
+- PaySim - Mobile money fraud simulation dataset. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/EdgarLopezPhD/PaySim)
 
-    - <a href="https://github.com/EdgarLopezPhD/PaySim" target="_blank" rel="noopener noreferrer">GitHub</a>
-
-- IBM AML Simulated Transactions Dataset
-
-	- <a href="https://github.com/IBM/AML-Data" target="_blank" rel="noopener noreferrer">GitHub</a>
+- IBM AML Simulated Transactions Dataset [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/IBM/AML-Data)
 
 	- <a href="https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml" target="_blank" rel="noopener noreferrer">Kaggle</a>
 	
