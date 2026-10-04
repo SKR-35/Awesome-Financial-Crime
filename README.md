@@ -36,43 +36,31 @@ Financial crime spans AML/CFT, sanctions, AB&C, market abuse, fraud and investig
 
 Commercial tools are useful for discovery:
 
-- Oracle Financial Crime and Compliance Management (FCCM) Solutions - Enterprise AML transaction monitoring/Mantas & case mgmt.
+- Oracle Financial Crime and Compliance Management (FCCM) Solutions - Enterprise AML transaction monitoring/Mantas & case mgmt. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.oracle.com/financial-services/aml-financial-crime-compliance/)
 
-	- <a href="https://www.oracle.com/financial-services/aml-financial-crime-compliance/" target="_blank" rel="noopener noreferrer">Official Page</a>
+- NICE Actimize - Cross-domain FCC suite (AML, fraud, trade/e-comms). [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.niceactimize.com/)
 
-- NICE Actimize - Cross-domain FCC suite (AML, fraud, trade/e-comms).
+- SAS AML / Fraud - Analytics-driven FCC platform. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.sas.com/en_us/home.html) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/sassoftware)
 
-	- <a href="https://www.niceactimize.com/" target="_blank" rel="noopener noreferrer">Official Page</a>
+- SymphonyAI NetReveal - AML, fraud and KYC risk. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.symphonyai.com/financial-services/netreveal-transaction-monitoring/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/symphonyai-accelerate)
 
-- SAS AML / Fraud - Analytics-driven FCC platform.
+- Quantexa - Entity resolution & network analytics.	[![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.quantexa.com/)
 
-	- <a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noopener noreferrer">Official Page</a>
-	
-	[![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/sassoftware)
-
-- SymphonyAI NetReveal - AML, fraud and KYC risk.
-
-	- <a href="https://www.symphonyai.com/financial-services/netreveal-transaction-monitoring/" target="_blank" rel="noopener noreferrer">Official Page</a>
-	
-	[![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/symphonyai-accelerate)
-
-- Quantexa - Entity resolution & network analytics.
-
-	- <a href="https://www.quantexa.com/" target="_blank" rel="noopener noreferrer">Official Page</a>
-
-- Featurespace - Adaptive behavioral fraud analytics.
-
-	- <a href="https://www.featurespace.com/" target="_blank" rel="noopener noreferrer">Official Page</a>
-	
-	[![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/Featurespace)
+- Featurespace - Adaptive behavioral fraud analytics. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.featurespace.com/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/Featurespace)
 
 - Behavox / Shield / Smarsh - E-comms surveillance stacks.
 
-	- <a href="https://www.behavox.com/" target="_blank" rel="noopener noreferrer">Behavox Official Page</a>
+	- <a href="" target="_blank" rel="noopener noreferrer">Behavox Official Page</a>
+	
+	[![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.behavox.com/)
 	
 	- <a href="https://www.shieldfc.com/" target="_blank" rel="noopener noreferrer">Shield Official Page</a>
 	
+	[![Website](https://img.shields.io/badge/Website-Link-2F80ED)]()
+	
 	- <a href="https://www.smarsh.com/" target="_blank" rel="noopener noreferrer">Smarsh Official Page</a>
+	
+	[![Website](https://img.shields.io/badge/Website-Link-2F80ED)]()
 	
 	[![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/smarsh)
 
@@ -80,14 +68,19 @@ Commercial tools are useful for discovery:
 
 	- <a href="https://www.soliduslabs.com/solutions/trade-surveillance" target="_blank" rel="noopener noreferrer">Solidus Official Page</a>
 	
+	[![Website](https://img.shields.io/badge/Website-Link-2F80ED)]()
+	
 	- <a href="https://www.acaglobal.com/technology/surveillance-monitoring/market-abuse-surveillance/" target="_blank" rel="noopener noreferrer">ACA Official Page</a>
+	
+	[![Website](https://img.shields.io/badge/Website-Link-2F80ED)]()
 	
 	- <a href="https://questdb.com/glossary/real-time-trade-surveillance/" target="_blank" rel="noopener noreferrer">QuestDB Official Page</a>
 	
+	[![Website](https://img.shields.io/badge/Website-Link-2F80ED)]()
+	
 	[![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/questdb)
 	
-- Elliptic - Wallet & transaction screening for AML compliance
- 	- <a href="https://www.elliptic.co/solutions/screening" target="_blank" rel="noopener noreferrer">Official Page</a>
+- Elliptic - Wallet & transaction screening for AML compliance. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.elliptic.co/solutions/screening)
 	
 - [AI DECISIONS](https://aidecisions.ai) - Multi-chain wallet screening API (Ethereum, Bitcoin, Tron, Base, Arbitrum, Gnosis): sanctions, mixer exposure, risk tier; free tier and a free public checker.
 
@@ -233,9 +226,7 @@ Commercial tools are useful for discovery:
 
 ## Benchmarks & Datasets
 
-- IEEE-CIS Fraud - Financial transactions fraud dataset (imbalanced).
-
-	- <a href="https://www.kaggle.com/competitions/ieee-fraud-detection" target="_blank" rel="noopener noreferrer">Kaggle</a>
+- IEEE-CIS Fraud - Financial transactions fraud dataset (imbalanced). [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.kaggle.com/competitions/ieee-fraud-detection)
 
 - Elliptic Bitcoin AML - Crypto AML labels for addresses/tx.
 
@@ -245,13 +236,9 @@ Commercial tools are useful for discovery:
 	
 - PaySim - Mobile money fraud simulation dataset. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/EdgarLopezPhD/PaySim)
 
-- IBM AML Simulated Transactions Dataset [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/IBM/AML-Data)
-
-	- <a href="https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml" target="_blank" rel="noopener noreferrer">Kaggle</a>
+- IBM AML Simulated Transactions Dataset. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/IBM/AML-Data)
 	
-- Kaggle Credit Card Fraud Detection
-  
-	- <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud" target="_blank" rel="noopener noreferrer">Kaggle</a>
+- Kaggle Credit Card Fraud Detection. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 - [openlabels](https://github.com/ai-decisions/openlabels) / [openeval](https://github.com/ai-decisions/openeval) - Primary-source crypto address label tooling (OFAC SDN, 9 VASP registers, TagPack export) and an evaluation harness with lead-time replay against public designations, Apache-2.0.
 
@@ -259,47 +246,29 @@ Commercial tools are useful for discovery:
 
 ### AML / Financial Crime
 
-- ACAMS CAMS - Certified Anti-Money Laundering Specialist
+- ACAMS CAMS - Certified Anti-Money Laundering Specialist [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.acams.org)
 
-    - https://www.acams.org
+- ICA Advanced Certificate in Anti Money Laundering	[![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.int-comp.org)
 
-- ICA Advanced Certificate in Anti Money Laundering
-
-    - https://www.int-comp.org
-
-- ICA Diploma in Financial Crime Prevention
-
-    - https://www.int-comp.org
+- ICA Diploma in Financial Crime Prevention	[![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.int-comp.org)
 
 ### Fraud
 
-- Certified Fraud Examiner (CFE)
-
-    - https://www.acfe.com
+- Certified Fraud Examiner (CFE) [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.acfe.com)
 
 ### Sanctions
 
-- Association of Certified Sanctions Specialists (ACSS)
-
-    - https://sanctionsassociation.org/
+- Association of Certified Sanctions Specialists (ACSS) [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://sanctionsassociation.org/)
 	
-- Certified Global Sanctions Specialist (CGSS)
-
-	- https://www.acams.org/en/certifications/certified-global-sanctions-specialist-cgss
+- Certified Global Sanctions Specialist (CGSS) [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.acams.org/en/certifications/certified-global-sanctions-specialist-cgss)
 
 ### Audit & Risk
 
-- Certified Internal Auditor (CIA)
+- Certified Internal Auditor (CIA) [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.theiia.org)
 
-    - https://www.theiia.org
+- Certified Information Systems Auditor (CISA) [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.isaca.org)
 
-- Certified Information Systems Auditor (CISA)
-
-    - https://www.isaca.org
-
-- Financial Risk Manager (FRM)
-
-    - https://www.garp.org
+- Financial Risk Manager (FRM) [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.garp.org)
 
 ## Books
 
@@ -469,17 +438,11 @@ Common financial crime and misconduct typologies relevant to detection, monitori
 
 ### Global AML / CFT
 
-- FATF Recommendations - Global standards for combating money laundering, terrorist financing and proliferation financing.
+- FATF Recommendations - Global standards for combating money laundering, terrorist financing and proliferation financing. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.fatf-gafi.org/en/topics/fatf-recommendations.html)
 
-	- <a href="https://www.fatf-gafi.org/en/topics/fatf-recommendations.html" target="_blank" rel="noopener noreferrer">Official Page</a>
+- FATF Risk-Based Approach Guidance - Guidance and resources for applying risk-based AML/CFT supervision and controls. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-rba-supervision.html)
 
-- FATF Risk-Based Approach Guidance - Guidance and resources for applying risk-based AML/CFT supervision and controls.
-
-	- <a href="https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-rba-supervision.html" target="_blank" rel="noopener noreferrer">Official Page</a>
-
-- Basel Committee - Sound Management of Risks Related to Money Laundering and Financing of Terrorism - Banking-sector guidance on AML/CFT governance and risk management.
-
-    - <a href="https://www.bis.org/bcbs/publ/d505.htm" target="_blank" rel="noopener noreferrer">Official Page</a>
+- Basel Committee - Sound Management of Risks Related to Money Laundering and Financing of Terrorism - Banking-sector guidance on AML/CFT governance and risk management. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.bis.org/bcbs/publ/d505.htm)
 
 - EU Anti-Money Laundering Framework / AMLA - European AML/CFT regulatory framework and the EU Anti-Money Laundering Authority.
 
@@ -489,58 +452,34 @@ Common financial crime and misconduct typologies relevant to detection, monitori
 
 ### Banking & Industry Guidance
 
-- Wolfsberg Group - Industry principles and guidance for financial crime risk management.
+- Wolfsberg Group - Industry principles and guidance for financial crime risk management. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://wolfsberg-group.org/)
 
-    - <a href="https://wolfsberg-group.org/" target="_blank" rel="noopener noreferrer">Official Page</a>
-
-- Wolfsberg Group Resources - Practical guidance and standards for financial crime risk management professionals.
-
-    - <a href="https://wolfsberg-group.org/resources" target="_blank" rel="noopener noreferrer">Wolfsberg Resources</a>
+- Wolfsberg Group Resources - Practical guidance and standards for financial crime risk management professionals. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://wolfsberg-group.org/resources)
 	
-- BIS papers
-
-	- <a href="https://www.bis.org/bispapers/index.htm" target="_blank" rel="noopener noreferrer">Official Page</a>
+- BIS papers [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.bis.org/bispapers/index.htm)
 
 ### Sanctions
 
-- OFAC Sanctions Programs and Guidance - Official U.S. sanctions information, compliance resources and program guidance.
-
-    - <a href="https://ofac.treasury.gov/" target="_blank" rel="noopener noreferrer">Official Page</a>
+- OFAC Sanctions Programs and Guidance - Official U.S. sanctions information, compliance resources and program guidance. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://ofac.treasury.gov/)
 
 ### Market Abuse
 
-- EU Market Abuse Regulation (MAR) - European regulatory framework addressing insider dealing, unlawful disclosure of inside information and market manipulation.
+- EU Market Abuse Regulation (MAR) - European regulatory framework addressing insider dealing, unlawful disclosure of inside information and market manipulation. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0596)
 
-    - <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0596" target="_blank" rel="noopener noreferrer">EUR-Lex</a>
-
-- FCA Market Abuse Guidance - UK regulatory guidance and resources concerning market abuse.
-
-    - <a href="https://www.fca.org.uk/markets/market-abuse" target="_blank" rel="noopener noreferrer">Official Page</a>
+- FCA Market Abuse Guidance - UK regulatory guidance and resources concerning market abuse. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.fca.org.uk/markets/market-abuse)
 
 ### Anti-Bribery & Corruption
 
-- UK Bribery Act 2010 Guidance - Official guidance for commercial organizations on procedures designed to prevent bribery.
+- UK Bribery Act 2010 Guidance - Official guidance for commercial organizations on procedures designed to prevent bribery. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.gov.uk/government/publications/bribery-act-2010-guidance)
 
-    - <a href="https://www.gov.uk/government/publications/bribery-act-2010-guidance" target="_blank" rel="noopener noreferrer">Official Page</a>
+- DOJ / SEC FCPA Resource Guide - Detailed guidance on the U.S. Foreign Corrupt Practices Act, enforcement principles and corporate compliance expectations. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.justice.gov/criminal/criminal-fraud/fcpa-resource-guide)
 
-- DOJ / SEC FCPA Resource Guide - Detailed guidance on the U.S. Foreign Corrupt Practices Act, enforcement principles and corporate compliance expectations.
-
-    - <a href="https://www.justice.gov/criminal/criminal-fraud/fcpa-resource-guide" target="_blank" rel="noopener noreferrer">DOJ Official Page</a>
-
-- United Nations Convention against Corruption (UNCAC) - International framework covering corruption prevention, criminalization, international cooperation and asset recovery.
-
-    - <a href="https://www.unodc.org/unodc/en/corruption/uncac.html" target="_blank" rel="noopener noreferrer">UNODC Official Page</a>
+- United Nations Convention against Corruption (UNCAC) - International framework covering corruption prevention, criminalization, international cooperation and asset recovery. ![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.unodc.org/unodc/en/corruption/uncac.html)
 
 ### Financial Intelligence
 
-- FinCEN Advisories - Official advisories addressing financial crime threats, typologies and suspicious financial activity.
+- FinCEN Advisories - Official advisories addressing financial crime threats, typologies and suspicious financial activity. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.fincen.gov/resources/advisoriesbulletinsfact-sheets/advisories)
 
-    - <a href="https://www.fincen.gov/resources/advisoriesbulletinsfact-sheets/advisories" target="_blank" rel="noopener noreferrer">Official Page</a>
+- Egmont Group - International cooperation, standards and knowledge resources for Financial Intelligence Units (FIUs). [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://egmontgroup.org/)
 
-- Egmont Group - International cooperation, standards and knowledge resources for Financial Intelligence Units (FIUs).
-
-    - <a href="https://egmontgroup.org/" target="_blank" rel="noopener noreferrer">Official Page</a>
-
-- Egmont Group Core Documents - Principles and operational guidance supporting cooperation and information exchange between FIUs.
-
-    - <a href="https://egmontgroup.org/resource_type/core-documents/" target="_blank" rel="noopener noreferrer">Core Documents</a>
+- Egmont Group Core Documents - Principles and operational guidance supporting cooperation and information exchange between FIUs. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://egmontgroup.org/resource_type/core-documents/)
