@@ -138,9 +138,7 @@ Commercial tools are useful for discovery:
 
 ## Fraud Detection
 
-- PyOD - Outlier detection toolbox for fraud features.
-
-	- <a href="https://github.com/yzhao062/pyod" target="_blank" rel="noopener noreferrer">GitHub</a>
+- PyOD - Outlier detection toolbox for fraud features. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/yzhao062/pyod)
 
 - River - Online ML for streaming fraud detection. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://riverml.xyz/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/online-ml/river)
 
@@ -148,39 +146,21 @@ Commercial tools are useful for discovery:
 
 ## Sanctions & Screening
 
-- OpenSanctions - Sanctions & PEPs knowledge graph + entity data pipelines.
+- OpenSanctions - Sanctions & PEPs knowledge graph + entity data pipelines. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.opensanctions.org/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/opensanctions/opensanctions)
 
-	- <a href="https://www.opensanctions.org/" target="_blank" rel="noopener noreferrer">Official Page</a>
-	
-	- <a href="https://github.com/opensanctions/opensanctions" target="_blank" rel="noopener noreferrer">GitHub</a>
+- FuzzyWuzzy / RapidFuzz - Name-matching baseline. [![Code](https://img.shields.io/badge/Code-FuzzyWuzzy-2DA44E)](https://github.com/seatgeek/fuzzywuzzy) [![Code](https://img.shields.io/badge/Code-RapidFuzz-2DA44E)](https://github.com/rapidfuzz/RapidFuzz)
 
-- FuzzyWuzzy / RapidFuzz - Name-matching baseline.
-
-	- <a href="https://github.com/seatgeek/fuzzywuzzy" target="_blank" rel="noopener noreferrer">FuzzyWuzzy GitHub</a>
-	
-	- <a href="https://github.com/rapidfuzz/RapidFuzz" target="_blank" rel="noopener noreferrer">RapidFuzzy GitHub</a>
-
-- OFAC SDN & Consolidated Lists - Official lists + update cadence, formats.
-
-	- <a href="https://sanctionslist.ofac.treas.gov/Home/ConsolidatedList" target="_blank" rel="noopener noreferrer">Official Page</a>
+- OFAC SDN & Consolidated Lists - Official lists + update cadence, formats. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://sanctionslist.ofac.treas.gov/Home/ConsolidatedList)
 
 ## KYC / KYB / Customer Risk
 
-- Great Expectations - Data quality gates for KYC feeds.
-
-	- <a href="https://github.com/great-expectations/great_expectations" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Great Expectations - Data quality gates for KYC feeds. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/great-expectations/great_expectations)
 	
-- OpenSanctions - Open-source sanctions, PEP and entity data useful for customer screening and risk assessment.
+- OpenSanctions - Open-source sanctions, PEP and entity data useful for customer screening and risk assessment. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/opensanctions/opensanctions)
 
-    - <a href="https://github.com/opensanctions/opensanctions" target="_blank" rel="noopener noreferrer">GitHub</a>
+- Splink - Probabilistic entity resolution for customer deduplication and identity matching. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/moj-analytical-services/splink)
 
-- Splink - Probabilistic entity resolution for customer deduplication and identity matching.
-
-    - <a href="https://github.com/moj-analytical-services/splink" target="_blank" rel="noopener noreferrer">GitHub</a>
-
-- RapidFuzz - Fast fuzzy string matching useful for names, aliases and customer-record comparison.
-
-    - <a href="https://github.com/rapidfuzz/RapidFuzz" target="_blank" rel="noopener noreferrer">GitHub</a>
+- RapidFuzz - Fast fuzzy string matching useful for names, aliases and customer-record comparison. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/rapidfuzz/RapidFuzz)
 
 ## Case Management & Investigation
 
