@@ -50,7 +50,7 @@ Commercial tools are useful for discovery:
 
 - Behavox / Shield / Smarsh - E-comms surveillance stacks. [![Website](https://img.shields.io/badge/Website-Behavox-2F80ED)](https://www.behavox.com/) [![Website](https://img.shields.io/badge/Website-Shield-2F80ED)](https://www.shieldfc.com/) [![Website](https://img.shields.io/badge/Website-Smarsh-2F80ED)](https://www.smarsh.com/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/smarsh)
 
-- Solidus / ACA / QuestDB - Trade surveillance. [![Website](https://img.shields.io/badge/Website-Solidus-2F80ED)](https://www.soliduslabs.com/solutions/trade-surveillance) ![Website](https://img.shields.io/badge/Website-ACA-2F80ED)](https://www.acaglobal.com/technology/surveillance-monitoring/market-abuse-surveillance/) [![Website](https://img.shields.io/badge/Website-QuestDB-2F80ED)](https://questdb.com/glossary/real-time-trade-surveillance/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/questdb)
+- Solidus / ACA / QuestDB - Trade surveillance. [![Website](https://img.shields.io/badge/Website-Solidus-2F80ED)](https://www.soliduslabs.com/solutions/trade-surveillance) [![Website](https://img.shields.io/badge/Website-ACA-2F80ED)](https://www.acaglobal.com/technology/surveillance-monitoring/market-abuse-surveillance/) [![Website](https://img.shields.io/badge/Website-QuestDB-2F80ED)](https://questdb.com/glossary/real-time-trade-surveillance/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/questdb)
 	
 - Elliptic - Wallet & transaction screening for AML compliance. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.elliptic.co/solutions/screening)
 	
@@ -188,7 +188,7 @@ Commercial tools are useful for discovery:
 
 - IEEE-CIS Fraud - Financial transactions fraud dataset (imbalanced). [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.kaggle.com/competitions/ieee-fraud-detection)
 
-- Elliptic Bitcoin AML - Crypto AML labels for addresses/tx. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)]()https://www.elliptic.co/media-center/elliptic-releases-bitcoin-transactions-data [![Website](https://img.shields.io/badge/Website-Kaggle-2F80ED)](https://www.kaggle.com/datasets/ellipticco/elliptic-data-set)
+- Elliptic Bitcoin AML - Crypto AML labels for addresses/tx. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)]()https://www.elliptic.co/media-center/elliptic-releases-bitcoin-transactions-data) [![Website](https://img.shields.io/badge/Website-Kaggle-2F80ED)](https://www.kaggle.com/datasets/ellipticco/elliptic-data-set)
 	
 - PaySim - Mobile money fraud simulation dataset. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/EdgarLopezPhD/PaySim)
 
