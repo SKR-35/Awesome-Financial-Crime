@@ -91,6 +91,8 @@ Commercial tools are useful for discovery:
 	
 - [AI DECISIONS](https://aidecisions.ai) - Multi-chain wallet screening API (Ethereum, Bitcoin, Tron, Base, Arbitrum, Gnosis): sanctions, mixer exposure, risk tier; free tier and a free public checker.
 
+- [SanctionsKit](https://www.sanctionskit.com/product/api) - Sanctions screening API and review dashboard for checking people and companies, with source-linked results. Free synthetic sandbox; paid production screening.
+
 ## Transaction Monitoring (AML)
 
 - Apache Flink - Streaming engine for real-time TM pipelines. 
