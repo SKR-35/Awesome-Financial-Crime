@@ -108,11 +108,7 @@ Commercial tools are useful for discovery:
 
 ## E-Comms / Conduct Surveillance
 
-- spaCy / Hugging Face - NLP pipelines for policy violations, collusion cues.
-
-	- <a href="https://github.com/explosion/spaCy" target="_blank" rel="noopener noreferrer">spaCy GitHub</a>
-	
-	- <a href="https://github.com/huggingface" target="_blank" rel="noopener noreferrer">Hugging Face GitHub</a>
+- spaCy / Hugging Face - NLP pipelines for policy violations, collusion cues. [![Code](https://img.shields.io/badge/Code-spaCy-2DA44E)](https://github.com/explosion/spaCy) [![Code](https://img.shields.io/badge/Code-HuggingFace-2DA44E)](https://github.com/huggingface)
 
 ## Fraud Detection
 
@@ -142,11 +138,7 @@ Commercial tools are useful for discovery:
 
 ## Case Management & Investigation
 
-- Kibana/Elasticsearch - Query, pivot and visualize alert context.
-
-	- <a href="https://github.com/elastic/kibana" target="_blank" rel="noopener noreferrer">Kibana GitHub</a>
-	
-	- <a href="https://github.com/elastic/elasticsearch" target="_blank" rel="noopener noreferrer">Elasticsearch GitHub</a>
+- Kibana/Elasticsearch - Query, pivot and visualize alert context. [![Code](https://img.shields.io/badge/Code-Kibana-2DA44E)](https://github.com/elastic/kibana) [![Code](https://img.shields.io/badge/Code-Elasticsearch-2DA44E)](https://github.com/elastic/elasticsearch)
 
 - OpenSearch - Elastic alternative for investigations. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/opensearch-project/OpenSearch)
 	
@@ -188,11 +180,7 @@ Commercial tools are useful for discovery:
 
 - SDV (Synthetic Data Vault) - Tabular synthetic data generation for model dev. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/sdv-dev/SDV)
 
-- Gretel / YData - Tools to generate privacy-preserving financial crime datasets.
-
-	- <a href="https://github.com/gretelai/gretel-synthetics" target="_blank" rel="noopener noreferrer">Gretel GitHub</a>
-	
-	- <a href="https://github.com/ydataai" target="_blank" rel="noopener noreferrer">YData GitHub</a>
+- Gretel / YData - Tools to generate privacy-preserving financial crime datasets. [![Code](https://img.shields.io/badge/Code-Gretel-2DA44E)](https://github.com/gretelai/gretel-synthetics) [![Code](https://img.shields.io/badge/Code-YData-2DA44E)](https://github.com/ydataai)
 	
 - Financial-Crime-Synthetic-Data - Reproducible synthetic financial crime data generator for transaction monitoring - customers, accounts, transactions and alerts, ready for analytics and model testing. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/SKR-35/Financial-Crime-Synthetic-Data)
 	
@@ -474,7 +462,7 @@ Common financial crime and misconduct typologies relevant to detection, monitori
 
 - DOJ / SEC FCPA Resource Guide - Detailed guidance on the U.S. Foreign Corrupt Practices Act, enforcement principles and corporate compliance expectations. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.justice.gov/criminal/criminal-fraud/fcpa-resource-guide)
 
-- United Nations Convention against Corruption (UNCAC) - International framework covering corruption prevention, criminalization, international cooperation and asset recovery. ![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.unodc.org/unodc/en/corruption/uncac.html)
+- United Nations Convention against Corruption (UNCAC) - International framework covering corruption prevention, criminalization, international cooperation and asset recovery.  [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.unodc.org/unodc/en/corruption/uncac.html)
 
 ### Financial Intelligence
 
