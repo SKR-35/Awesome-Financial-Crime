@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.4.0] - 2026-10-04
+
+### Changed
+
+- Redesigned resource links using compact inline badges to improve readability and reduce README length.
+- Standardized website links using consistent `Website | Link` badges.
+- Standardized GitHub repository links using consistent `Code | GitHub` badges.
+- Added labeled badge variants for resources containing multiple repositories or multiple external links.
+- Standardized mixed multi-link resources while preserving clear identification of individual destinations.
+- Standardized pull request link formatting to align with the repository's updated link presentation.
+- Consolidated resource descriptions and links onto single lines where practical, improving information density and scanability.
+- Corrected resource URLs identified during the badge migration.
+
+### CI / Quality
+
+- Verified the redesigned badge links with the existing automated README link-check workflow.
+- Confirmed the updated README passes link validation after the badge migration.
+
 ## [v1.3.0] - 2026-08-29
 
 ### Added
