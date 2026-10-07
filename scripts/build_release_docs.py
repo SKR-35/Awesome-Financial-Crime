@@ -15,6 +15,9 @@ HTML_LINK_RE = re.compile(
     flags=re.IGNORECASE | re.DOTALL,
 )
 
+SHIELDS_BADGE_RE = re.compile(
+    r"\[!\[([^\]]+)\]\(https://img\.shields\.io/badge/[^)]+\)\]\(([^)]+)\)"
+)
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
@@ -56,18 +59,28 @@ def convert_html_links_to_markdown(markdown: str) -> str:
         return f"[{label}]({url})"
 
     return HTML_LINK_RE.sub(replace, markdown)
+    
+def convert_shields_badges_to_links(markdown: str) -> str:
+    """Convert clickable Shields.io badges into ordinary Markdown links."""
 
+    def replace(match: re.Match[str]) -> str:
+        label = match.group(1).strip()
+        target_url = match.group(2).strip()
+        return f"[{label}]({target_url})"
+
+    return SHIELDS_BADGE_RE.sub(replace, markdown)
 
 def prepare_markdown(source: Path, version: str) -> str:
     content = source.read_text(encoding="utf-8")
     content = convert_html_links_to_markdown(content)
-
+    content = convert_shields_badges_to_links(content)
+    
     # The generated document has its own title page.
+    # Remove repository-level badges from the release document.
     content = re.sub(
-        r"^\s*\[!\[Awesome\].*?\n",
+        r"^(?:!\[Awesome\].*|\[!\[CI - Link Check\].*)\n?",
         "",
         content,
-        count=1,
         flags=re.MULTILINE,
     )
 
