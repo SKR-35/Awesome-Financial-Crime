@@ -18,6 +18,9 @@ All notable changes to this project will be documented in this file.
 
 - Expanded the repository's learning and professional-development coverage beyond certifications, books and visual media.
 - Updated the Table of Contents to include the new Courses & Training and Podcasts sections.
+- Updated the release document builder to convert clickable Shields.io badges into standard links before Pandoc processing.
+- Prevented XeLaTeX build failures caused by remote Shields.io badge images while preserving their destination links in generated release documents.
+- Excluded repository-level Awesome and CI status badges from generated release documentation.
 
 ## [v1.4.0] - 2026-10-04
 
