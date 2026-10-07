@@ -38,9 +38,10 @@ def test_convert_html_links_to_markdown() -> None:
 def test_prepare_markdown_removes_readme_toc_and_title(tmp_path: Path) -> None:
     readme = tmp_path / "README.md"
     readme.write_text(
-        """# Awesome Financial Crime
+    """![Awesome](https://img.shields.io/badge/Awesome-List-6F42C1?logo=awesomelists&logoColor=white)
+[![CI - Link Check](https://img.shields.io/github/actions/workflow/status/SKR-35/Awesome-Financial-Crime/link-check.yml?branch=master&label=CI%20-%20Link%20Check&logo=githubactions&logoColor=white)](https://github.com/SKR-35/Awesome-Financial-Crime/actions/workflows/link-check.yml)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Financial Crime
 
 A curated financial crime resource list.
 
@@ -57,15 +58,16 @@ Commercial tools are useful for discovery.
 
 Streaming and monitoring tools.
 """,
-        encoding="utf-8",
-    )
+    encoding="utf-8",
+)
 
     result = prepare_markdown(readme, "v1.3.0")
 
     assert 'title: "Awesome Financial Crime"' in result
     assert 'version: "v1.3.0"' in result
     assert "# Awesome Financial Crime" not in result
-    assert "[![Awesome]" not in result
+    assert "Awesome-List-6F42C1" not in result
+    assert "CI - Link Check" not in result    
     assert "## Table of Contents" not in result
     assert "[Vendor / Commercial Platforms](#vendor--commercial-platforms)" not in result
     assert "## Vendor / Commercial Platforms" in result
