@@ -140,6 +140,8 @@ Commercial tools are useful for discovery:
 	
 - Dedupe - Python entity resolution library. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/dedupeio/dedupe)
 
+- FollowTheMoney - Entity data model and processing toolkit for financial crime investigations and investigative data. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://followthemoney.tech/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/opensanctions/followthemoney)
+
 ## Data Ingestion, ETL & Quality
 
 - Airflow - Batch orchestration for financial crime pipelines. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/apache/airflow)
@@ -183,6 +185,10 @@ Commercial tools are useful for discovery:
 - LIME - Local explainability for suspicious activity scoring. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/marcotcr/lime)
 
 - Fairlearn - Bias/fairness monitoring. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/fairlearn/fairlearn)
+
+- DoWhy - Causal inference, counterfactual analysis and root-cause attribution for interpretable ML workflows. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/py-why/dowhy)
+
+- explainX - Explainability toolkit for inspecting predictions, bias and counterfactual changes in black-box ML models. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/explainX/explainx)
 
 ## Benchmarks & Datasets
 
