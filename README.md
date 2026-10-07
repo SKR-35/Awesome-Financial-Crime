@@ -27,7 +27,9 @@ Financial crime spans AML/CFT, sanctions, AB&C, market abuse, fraud and investig
 - [Explainability & Model Risk](#explainability--model-risk)
 - [Benchmarks & Datasets](#benchmarks--datasets)
 - [Certifications](#certifications)
+- [Courses & Training](#courses--training)
 - [Books](#books)
+- [Podcasts](#podcasts)
 - [Documentaries, Movies & TV Series](#documentaries-movies--tv-series)
 - [Typologies](#typologies)
 - [Regulations, Standards & Guidance](#regulations-standards--guidance)
@@ -232,6 +234,18 @@ Commercial tools are useful for discovery:
 
 - Financial Risk Manager (FRM) [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.garp.org)
 
+## Courses & Training
+
+Selected practical and professional learning resources covering AML, financial investigations, sanctions, compliance and financial crime prevention.
+
+- Basel LEARN - Free self-paced courses covering financial investigations, money laundering, asset tracing, OSINT, financial analysis and terrorist financing. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://baselgovernance.org/learning/basel-learn/)
+
+- ACAMS AML Foundations - Foundation-level training covering AML principles, risk-based approaches, due diligence and suspicious activity reporting. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.acams.org/en/training/certificates/aml-foundations)
+
+- ACAMS AML Regulatory Framework Courses - Self-paced jurisdiction-specific training covering AML regulatory frameworks across the EU, US, UK and other jurisdictions. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.acams.org/en/training/certificates/aml-regulatory-framework-courses)
+
+- ACAMS Training Webinars - Expert-led training covering financial crime trends, typologies, fraud, sanctions, regulation and practical AFC controls. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.acams.org/en/training/about-webinars)
+
 ## Books
 
 ### Financial Crime & AML
@@ -278,6 +292,18 @@ Commercial tools are useful for discovery:
 
 - **Dark Commerce: How a New Illicit Economy Is Threatening Our Future**
   - Louise I. Shelley
+  
+## Podcasts
+
+Selected podcasts covering financial crime, AML, fraud, sanctions, corruption, investigations and regulatory developments.
+
+- Financial Crime Matters - ACAMS podcast featuring practitioners, regulators and investigators discussing AML, financial crime enforcement and emerging risks. [![Website](https://img.shields.io/badge/Website-Apple_Podcasts-2F80ED)](https://podcasts.apple.com/us/podcast/financial-crime-matters/id1456666158)
+
+- The Dark Money Files - Financial crime podcast exploring money laundering, banking, regulation and the criminal abuse of the financial system. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.thedarkmoneyfiles.com/podcast)
+
+- Bribe, Swindle or Steal - TRACE podcast covering corruption, fraud, money laundering, sanctions and white-collar crime through expert interviews. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.traceinternational.org/podcast)
+
+- The Laundry - Podcast connecting AML, compliance, sanctions and financial crime with current events, regulation and industry practice. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://shows.acast.com/thelaundry)
   
 ## Documentaries, Movies & TV Series
 
