@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.5.0] - 2026-10-07
+
+### Added
+
+- Added **Courses & Training** as a new learning-resource section.
+- Added curated training resources covering AML, financial investigations, regulatory frameworks and financial crime prevention.
+- Added **Podcasts** as a new media and professional-learning section.
+- Added selected financial crime podcasts covering AML, fraud, sanctions, corruption, investigations and regulatory developments.
+- Added **FollowTheMoney** to Entity Resolution & Master Data for investigative entity modeling and financial crime data processing.
+- Added **DoWhy** to Explainability & Model Risk for causal inference, counterfactual analysis and root-cause attribution.
+- Added **explainX** to Explainability & Model Risk for model explanations, bias inspection and counterfactual analysis.
+
+### Changed
+
+- Expanded the repository's learning and professional-development coverage beyond certifications, books and visual media.
+- Updated the Table of Contents to include the new Courses & Training and Podcasts sections.
+
 ## [v1.4.0] - 2026-10-04
 
 ### Changed
