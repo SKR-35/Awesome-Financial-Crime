@@ -62,6 +62,8 @@ Commercial tools are useful for discovery:
 
 - SanctionsKit - Sanctions screening API and review dashboard for checking people and companies, with source-linked results. Free synthetic sandbox; paid production screening. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.sanctionskit.com/product/api) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/SanctionsKit)
 
+- CPT Engineering Company Due Diligence Check - Pay-per-check US company screen: state registry match and status (CO, CT, NY, OR, PA, TX), active UCC and government liens (CO, CT, OR), OFAC SDN/consolidated and SAM.gov exclusion screens; no personal data returned. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://apify.com/cpt_engineering/company-due-diligence-check)
+
 ## Transaction Monitoring (AML)
 
 - Apache Flink - Streaming engine for real-time TM pipelines. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/apache/flink)
