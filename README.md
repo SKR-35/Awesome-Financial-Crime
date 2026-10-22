@@ -64,6 +64,8 @@ Commercial tools are useful for discovery:
 
 - CPT Engineering Company Due Diligence Check - Pay-per-check US company screen: state registry match and status (CO, CT, NY, OR, PA, TX), active UCC and government liens (CO, CT, OR), OFAC SDN/consolidated and SAM.gov exclusion screens; no personal data returned. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://apify.com/cpt_engineering/company-due-diligence-check)
 
+- HullCipher - Sanctioned ships on a live map: what each list calls a ship beside what it broadcasts on AIS, with dated name, MMSI and flag changes, silences, restricted port calls and meetings at sea. Free to browse; paid plans from $50/month. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://hullcipher.com)
+
 ## Transaction Monitoring (AML)
 
 - Apache Flink - Streaming engine for real-time TM pipelines. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/apache/flink)
