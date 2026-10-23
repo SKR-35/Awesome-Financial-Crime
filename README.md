@@ -253,6 +253,8 @@ Selected practical and professional learning resources covering AML, financial i
 
 - ACAMS Training Webinars - Expert-led training covering financial crime trends, typologies, fraud, sanctions, regulation and practical AFC controls. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.acams.org/en/training/about-webinars)
 
+- CryptoStrapon Scam Investigations - Free library of 53 documented crypto scam case studies (pig butchering, wallet drainers, rug pulls, fake exchanges) with on-chain evidence and red flags, in English and Spanish. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://cryptostrapon.com/dark-bits)
+
 ## Books
 
 ### Financial Crime & AML
