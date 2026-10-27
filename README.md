@@ -213,6 +213,8 @@ Commercial tools are useful for discovery:
 
 - openlabels / openeval - Primary-source crypto address label tooling (OFAC SDN, 9 VASP registers, TagPack export) and an evaluation harness with lead-time replay against public designations. [![Code](https://img.shields.io/badge/Code-openlabels-2DA44E)](https://github.com/ai-decisions/openlabels) [![Code](https://img.shields.io/badge/Code-openeval-2DA44E)](https://github.com/ai-decisions/openeval)
 
+- VASP Tracker data - Open dataset of VASP/CASP licensing regimes and deadlines in 74 jurisdictions (FATF R.15 implementation, MiCA transitional periods), with the source law or regulator notice on every row; CSV/JSON, CC BY 4.0. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/vasptracker/vasptracker-data) [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://vasptracker.com/)
+
 ## Certifications
 
 ### AML / Financial Crime
