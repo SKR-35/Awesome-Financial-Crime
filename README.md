@@ -134,7 +134,7 @@ Tools and data sources for identifying financial crime risks through news monito
 
 - ComplyAdvantage - AI-assisted adverse media screening and negative news monitoring for AML compliance and customer risk assessment. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://complyadvantage.com/fincrime-risk-intelligence/negative-news-screening-tool/)
 
-- GDELT Project - Open global news and event datasets suitable for investigative research, entity monitoring, and NLP-based adverse media analysis. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.gdelt.org/)
+- GDELT Project - Open global news and event datasets suitable for investigative research, entity monitoring, and NLP-based adverse media analysis. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.gdeltproject.org/)
 
 ## Case Management & Investigation
 
