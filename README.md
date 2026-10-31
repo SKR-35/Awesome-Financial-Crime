@@ -16,6 +16,7 @@ Financial crime spans AML/CFT, sanctions, AB&C, market abuse, fraud and investig
 - [Fraud Detection](#fraud-detection)
 - [Sanctions & Screening](#sanctions--screening)
 - [KYC / KYB / Customer Risk](#kyc--kyb--customer-risk)
+- [Adverse Media & Negative News Screening](#adverse-media--negative-news-screening)
 - [Case Management & Investigation](#case-management--investigation)
 - [Graph & Link Analysis](#graph--link-analysis)
 - [Graph Machine Learning](#graph-machine-learning)
@@ -118,6 +119,20 @@ Commercial tools are useful for discovery:
 
 - RapidFuzz - Fast fuzzy string matching useful for names, aliases and customer-record comparison. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/rapidfuzz/RapidFuzz)
 - china-usci - Offline checks of mainland China's 18-character USCI format, allowed characters and check digit; passing does not verify registration, creditworthiness or payment safety. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/zbl1998-sdjn/china-usci) [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://currawongweb.com/verify/china-usci-checker/)
+
+## Adverse Media & Negative News Screening
+
+Tools and data sources for identifying financial crime risks through news monitoring, adverse media intelligence, and customer due diligence.
+
+- Dow Jones Factiva - Global news research platform providing access to licensed news sources, company information, and historical media coverage for adverse media investigations and enhanced due diligence. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.dowjones.com/professional/factiva/)
+
+- Dow Jones Risk & Compliance - Financial crime risk intelligence and screening solutions supporting adverse media checks, sanctions screening, and customer due diligence. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.dowjones.com/professional/risk/)
+
+- LSEG World-Check - Risk intelligence and adverse media screening for customer due diligence, financial crime investigations, and ongoing monitoring. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.lseg.com/en/risk-intelligence/financial-crime-risk-management/adverse-media-screening)
+
+- ComplyAdvantage - AI-assisted adverse media screening and negative news monitoring for AML compliance and customer risk assessment. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://complyadvantage.com/fincrime-risk-intelligence/negative-news-screening-tool/)
+
+- GDELT Project - Open global news and event datasets suitable for investigative research, entity monitoring, and NLP-based adverse media analysis. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.gdelt.org/)
 
 ## Case Management & Investigation
 
