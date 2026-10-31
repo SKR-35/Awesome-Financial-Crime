@@ -98,6 +98,8 @@ Commercial tools are useful for discovery:
 
 - XGBoost / LightGBM - Gradient boosting baselines for tabular fraud. [![Code](https://img.shields.io/badge/Code-XGBoost-2DA44E)](https://github.com/dmlc/xgboost) [![Code](https://img.shields.io/badge/Code-LightGBM-2DA44E)](https://github.com/microsoft/LightGBM)
 
+- Darts - Time-series forecasting and anomaly detection toolkit useful for identifying unusual transaction patterns and behavioral changes. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/unit8co/darts)
+
 ## Sanctions & Screening
 
 - OpenSanctions - Sanctions & PEPs knowledge graph + entity data pipelines. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.opensanctions.org/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/opensanctions/opensanctions)
@@ -173,6 +175,8 @@ Commercial tools are useful for discovery:
   
 - openabm - Agent-based simulator of money-laundering networks with a pluggable detector for adversarial evaluation. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/ai-decisions/openabm)
 
+- IBM AMLSim - Multi-agent simulator generating synthetic banking transactions with known money-laundering patterns for testing AML detection models and graph algorithms. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/IBM/AMLSim)
+
 ## MLOps, Monitoring & Drift Detection
 
 - MLflow - Model tracking, registry, experiment mgmt for financial crime models. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/mlflow/mlflow)
@@ -198,6 +202,8 @@ Commercial tools are useful for discovery:
 - DoWhy - Causal inference, counterfactual analysis and root-cause attribution for interpretable ML workflows. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/py-why/dowhy)
 
 - explainX - Explainability toolkit for inspecting predictions, bias and counterfactual changes in black-box ML models. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/explainX/explainx)
+
+- AI Fairness 360 (AIF360) - Open-source toolkit for measuring and mitigating bias in machine learning datasets and models, supporting model risk and fairness assessments. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/Trusted-AI/AIF360)
 
 ## Benchmarks & Datasets
 
