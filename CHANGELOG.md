@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2026 October
+
+### Community Contributions
+
+- Integrated community-contributed resources across sanctions screening, maritime intelligence, company due diligence, KYC/KYB, cryptocurrency investigations, and regulatory datasets.
+- Added new resources including china-usci, FreezeRadar, CPT Engineering Company Due Diligence Check, HullCipher, CryptoStrapon Scam Investigations, and VASP Tracker.
+- Expanded coverage of practical financial crime investigation tools and publicly available compliance datasets.
+- Continued improving the curated resource catalogue through external pull requests and contributor participation.
+
 ## [v1.5.0] - 2026-10-07
 
 ### Added
