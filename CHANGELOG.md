@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.6.0] - 2026-10-31
+
+### Added
+
+- Added **Adverse Media & Negative News Screening** as a new section, featuring Dow Jones Factiva, Dow Jones Risk & Compliance, LSEG World-Check, ComplyAdvantage and GDELT.
+- Added **Darts** to Fraud Detection for time-series forecasting and anomaly detection.
+- Added **IBM AMLSim** to Synthetic Data & Simulators for synthetic AML transaction generation and detection research.
+- Added **AI Fairness 360 (AIF360)** to Explainability & Model Risk for bias assessment and mitigation.
+- Added **Nasdaq SMARTS** to Vendor / Commercial Platforms for trade and market surveillance.
+- Added **CONTRIBUTING.md** with guidelines for resource submissions, formatting, quality standards and vendor-neutral review.
+
+### Changed
+
+- Updated the README Table of Contents to include the new adverse media screening section.
+- Expanded the resource catalogue while maintaining concise, vendor-neutral descriptions and consistent Website / Code badges.
+- Established contribution guidelines to support consistent review of future community submissions.
+
 ## 2026 October
 
 ### Community Contributions
