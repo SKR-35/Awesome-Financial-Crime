@@ -111,6 +111,8 @@ Commercial tools are useful for discovery:
 
 - OFAC SDN & Consolidated Lists - Official lists + update cadence, formats. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://sanctionslist.ofac.treas.gov/Home/ConsolidatedList)
 
+- EU Sanctions Screen - Name, alias and ID screening against the EU Consolidated Financial Sanctions List (DG FISMA), with exact and fuzzy "possible match" results and the list publication date on each record; Apify Actor, pay-per-event (Apify free credits apply), MIT-licensed code. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://apify.com/itulo/eu-sanctions-screen) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/itulo/eu-nordic-open-data-mcp/tree/main/tools/eu-sanctions-screen)
+
 ## KYC / KYB / Customer Risk
 
 - Great Expectations - Data quality gates for KYC feeds. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/great-expectations/great_expectations)
@@ -121,6 +123,10 @@ Commercial tools are useful for discovery:
 
 - RapidFuzz - Fast fuzzy string matching useful for names, aliases and customer-record comparison. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/rapidfuzz/RapidFuzz)
 - china-usci - Offline checks of mainland China's 18-character USCI format, allowed characters and check digit; passing does not verify registration, creditworthiness or payment safety. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/zbl1998-sdjn/china-usci) [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://currawongweb.com/verify/china-usci-checker/)
+
+- UK Companies House KYB - Company-level UK lookups from the official Companies House API (user-supplied free key): status, SIC codes, filing deadlines, charges and insolvency, plus GLEIF LEI records and parent chains for any country; no officer or PSC data; Apify Actor, pay-per-event (Apify free credits apply), MIT-licensed code. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://apify.com/itulo/uk-companies-house-kyb) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/itulo/eu-nordic-open-data-mcp/tree/main/tools/uk-companies-house-kyb)
+
+- PRH Company Events - Daily Finnish Trade Register events (new companies, name changes, liquidations, bankruptcies) and Business ID watchlist diffs from PRH open data, with a Norwegian Brreg mode; Apify Actor, pay-per-event (Apify free credits apply), MIT-licensed code. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://apify.com/itulo/prh-company-events) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/itulo/eu-nordic-open-data-mcp/tree/main/tools/prh-company-events)
 
 ## Adverse Media & Negative News Screening
 
