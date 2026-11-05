@@ -128,6 +128,9 @@ Commercial tools are useful for discovery:
 
 - PRH Company Events - Daily Finnish Trade Register events (new companies, name changes, liquidations, bankruptcies) and Business ID watchlist diffs from PRH open data, with a Norwegian Brreg mode; Apify Actor, pay-per-event (Apify free credits apply), MIT-licensed code. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://apify.com/itulo/prh-company-events) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/itulo/eu-nordic-open-data-mcp/tree/main/tools/prh-company-events)
 
+- KYC Flows - Dated, screen-by-screen screenshots of end-user identity-verification (Didit) and embedded-wallet sign-up flows, captured with test accounts and no real IDs, with each vendor's public pricing. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.kycflows.com/kyc)
+
+
 ## Adverse Media & Negative News Screening
 
 Tools and data sources for identifying financial crime risks through news monitoring, adverse media intelligence, and customer due diligence.
