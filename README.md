@@ -171,6 +171,8 @@ Tools and data sources for identifying financial crime risks through news monito
   
 - openheads - Training code for a GNN financial-crime detector over a multi-chain transaction graph (warm-start recipe, threshold calibration). [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/ai-decisions/openheads)
 
+- GNN Fraud Ring Detection - MIT educational graph-fraud lab with synthetic ring patterns, graph-model examples and regression tests. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/RishabhPande/GNN-fraud-ring-detection)
+
 ## Entity Resolution & Master Data
 
 - Splink - Probabilistic entity resolution at scale. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/moj-analytical-services/splink)
