@@ -69,6 +69,8 @@ Commercial tools are useful for discovery:
 
 - Nasdaq SMARTS - Trade and market surveillance platform for detecting market manipulation, suspicious trading patterns, and cross-market misconduct across multiple asset classes. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.nasdaq.com/products/fintech/surveillance/trade-surveillance)
 
+- Screen100 - Sanctions screening for people and companies against the OFAC and UN Security Council lists, with a 0 to 100 match score and a cited source entry for each hit; free plan with 50 screens a month and API access. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.screen100.com/)
+
 ## Transaction Monitoring (AML)
 
 - Apache Flink - Streaming engine for real-time TM pipelines. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/apache/flink)
