@@ -155,6 +155,8 @@ Tools and data sources for identifying financial crime risks through news monito
 	
 - Apache Superset - Investigation dashboards. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/apache/superset)
 
+- Casework - Apache-2.0 case-management developer preview for synthetic fraud and AML investigations, with evidence review, decision history and JSON exports. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://casework-live.sunshinevendetta.chatgpt.site) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/anshuman-pandey/casework)
+
 ## Graph & Link Analysis
 
 - NetworkX - Graph feature engineering (centrality, motifs). [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/networkx/networkx)
