@@ -71,6 +71,8 @@ Commercial tools are useful for discovery:
 
 - Screen100 - Sanctions screening for people and companies against the OFAC and UN Security Council lists, with a 0 to 100 match score and a cited source entry for each hit; free plan with 50 screens a month and API access. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.screen100.com/)
 
+- Whatoblock - IP threat intelligence from a honeypot network. A lookup shows whether an address was observed as a residential or datacenter proxy exit, a Tor exit or a scanner, a network-level signal used in fraud and account-takeover checks; free plan with 5 lookups a day. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://whatoblock.com/)
+
 ## Transaction Monitoring (AML)
 
 - Apache Flink - Streaming engine for real-time TM pipelines. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/apache/flink)
