@@ -297,6 +297,9 @@ Selected practical and professional learning resources covering AML, financial i
 
 - CryptoStrapon Scam Investigations - Free library of 53 documented crypto scam case studies (pig butchering, wallet drainers, rug pulls, fake exchanges) with on-chain evidence and red flags, in English and Spanish. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://cryptostrapon.com/dark-bits)
 
+- Compare Two AML Threshold Methods (Free Sample) - Free 4-page worksheet comparing mean + 2 standard deviations with the 97th percentile for setting transaction monitoring alert thresholds, using synthetic data. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://yywong.gumroad.com/l/wpqwje)
+
+
 ## Books
 
 ### Financial Crime & AML
