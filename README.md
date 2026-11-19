@@ -299,7 +299,6 @@ Selected practical and professional learning resources covering AML, financial i
 
 - Compare Two AML Threshold Methods (Free Sample) - Free 4-page worksheet comparing mean + 2 standard deviations with the 97th percentile for setting transaction monitoring alert thresholds, using synthetic data. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://yywong.gumroad.com/l/wpqwje)
 
-
 ## Books
 
 ### Financial Crime & AML
