@@ -117,6 +117,8 @@ Commercial tools are useful for discovery:
 
 - EU Sanctions Screen - Name, alias and ID screening against the EU Consolidated Financial Sanctions List (DG FISMA), with exact and fuzzy "possible match" results and the list publication date on each record; Apify Actor, pay-per-event (Apify free credits apply), MIT-licensed code. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://apify.com/itulo/eu-sanctions-screen) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/itulo/eu-nordic-open-data-mcp/tree/main/tools/eu-sanctions-screen)
 
+- Moov Watchman - Open-source sanctions and watchlist screening (OFAC SDN, US CSL, EU, UK and more) with fuzzy name matching, offered as an HTTP API, Go library, and Docker image. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://moov-io.github.io/watchman/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/moov-io/watchman)
+
 - OfacMatch - Open-source OFAC SDN name screening with an explanation for every potential match; browser CSV screening with an audit file, self-hosted REST API, Python and .NET clients. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://krunalsolanki.github.io/ofac-match/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/krunalsolanki/ofac-match)
 
 ## KYC / KYB / Customer Risk
