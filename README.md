@@ -138,6 +138,8 @@ Commercial tools are useful for discovery:
 
 - KYC Flows - Dated, screen-by-screen screenshots of end-user identity-verification (Didit) and embedded-wallet sign-up flows, captured with test accounts and no real IDs, with each vendor's public pricing. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.kycflows.com/kyc)
 
+- SpainCompanyAPI - Spanish company KYB by tax ID (CIF/NIF): registry status derived from the BORME gazette with date and source, current directors, legal name and VIES checks, tax IDs revoked by the Tax Agency and EU/UN/OFAC sanctions screening; REST API with a free plan, MIT-licensed SDKs and MCP server. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://spaincompanyapi.com) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/abasmartinc/apiempresas-mcp)
+
 
 ## Adverse Media & Negative News Screening
 
