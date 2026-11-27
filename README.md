@@ -140,6 +140,7 @@ Commercial tools are useful for discovery:
 
 - SpainCompanyAPI - Spanish company KYB by tax ID (CIF/NIF): registry status derived from the BORME gazette with date and source, current directors, legal name and VIES checks, tax IDs revoked by the Tax Agency and EU/UN/OFAC sanctions screening; REST API with a free plan, MIT-licensed SDKs and MCP server. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://spaincompanyapi.com) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/abasmartinc/apiempresas-mcp)
 
+- Kausate - Real-time KYB API connected to official company registers with global coverage, including reports, shareholders/UBO, financials, original filings with a timestamp and hash, and monitoring webhooks. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://kausate.com)
 
 ## Adverse Media & Negative News Screening
 
