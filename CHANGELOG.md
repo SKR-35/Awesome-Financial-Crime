@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2026 November
+
+### Community Contributions
+
+- Integrated 14 community-contributed resources through 12 merged pull requests from 11 contributors.
+- Expanded Vendor / Commercial Platforms with Screen100 and Whatoblock.
+- Expanded Sanctions & Screening with EU Sanctions Screen, Moov Watchman, OfacMatch and watchlist-diff.
+- Expanded KYC / KYB / Customer Risk with UK Companies House KYB, PRH Company Events, KYC Flows, SpainCompanyAPI and Kausate.
+- Added Casework to Case Management & Investigation.
+- Added GNN Fraud Ring Detection to Graph Machine Learning.
+- Added Compare Two AML Threshold Methods to Courses & Training.
+- Strengthened coverage of sanctions screening, corporate due diligence, investigation workflows, regression testing and financial crime analytics through community contributions.
+
 ## [v1.6.0] - 2026-10-31
 
 ### Added
