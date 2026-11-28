@@ -16,6 +16,7 @@ Financial crime spans AML/CFT, sanctions, AB&C, market abuse, fraud and investig
 - [Fraud Detection](#fraud-detection)
 - [Sanctions & Screening](#sanctions--screening)
 - [KYC / KYB / Customer Risk](#kyc--kyb--customer-risk)
+- [Beneficial Ownership (UBO) & Corporate Transparency](#beneficial-ownership-ubo--corporate-transparency)
 - [Adverse Media & Negative News Screening](#adverse-media--negative-news-screening)
 - [Case Management & Investigation](#case-management--investigation)
 - [Graph & Link Analysis](#graph--link-analysis)
@@ -147,6 +148,18 @@ Commercial tools are useful for discovery:
 - SpainCompanyAPI - Spanish company KYB by tax ID (CIF/NIF): registry status derived from the BORME gazette with date and source, current directors, legal name and VIES checks, tax IDs revoked by the Tax Agency and EU/UN/OFAC sanctions screening; REST API with a free plan, MIT-licensed SDKs and MCP server. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://spaincompanyapi.com) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/abasmartinc/apiempresas-mcp)
 
 - Kausate - Real-time KYB API connected to official company registers with global coverage, including reports, shareholders/UBO, financials, original filings with a timestamp and hash and monitoring webhooks. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://kausate.com)
+
+## Beneficial Ownership (UBO) & Corporate Transparency
+
+Tools, datasets and standards for beneficial ownership identification, corporate structure analysis, ownership transparency and enhanced due diligence.
+
+- Open Ownership - Beneficial ownership datasets and analytical resources supporting ownership transparency, corporate investigations and customer due diligence. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.openownership.org/) [![Website](https://img.shields.io/badge/Website-Datasets-2F80ED)](https://bods-data.openownership.org/)
+
+- Beneficial Ownership Data Standard (BODS) - Open standard for collecting, structuring and exchanging machine-readable beneficial ownership and control information. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://standard.openownership.org/)
+
+- OpenCorporates - Global company information platform supporting corporate identity verification, company registry research and corporate transparency investigations. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://opencorporates.com/)
+
+- GLEIF (Global Legal Entity Identifier Foundation) - Open legal entity reference data and direct and ultimate accounting parent relationships useful for corporate structure analysis; does not directly identify natural-person beneficial owners. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.gleif.org/)
 
 ## Adverse Media & Negative News Screening
 
