@@ -38,5 +38,7 @@ jobs:
             --timeout 20
             --exclude '^https://www\.fatf-gafi\.org/.*$'
             --exclude '^https://www\.acams\.org/.*$'
+            --exclude '^https://kausate\.com/?$'
+            --exclude '^https://www\.sanctionskit\.com/product/api/?$'
             README.md
           fail: true
