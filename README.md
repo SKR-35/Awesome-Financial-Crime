@@ -67,7 +67,7 @@ Commercial tools are useful for discovery:
 
 - HullCipher - Sanctioned ships on a live map: what each list calls a ship beside what it broadcasts on AIS, with dated name, MMSI and flag changes, silences, restricted port calls and meetings at sea. Free to browse; paid plans from $50/month. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://hullcipher.com)
 
-- Nasdaq SMARTS - Trade and market surveillance platform for detecting market manipulation, suspicious trading patterns, and cross-market misconduct across multiple asset classes. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.nasdaq.com/products/fintech/surveillance/trade-surveillance)
+- Nasdaq SMARTS - Trade and market surveillance platform for detecting market manipulation, suspicious trading patterns and cross-market misconduct across multiple asset classes. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.nasdaq.com/products/fintech/surveillance/trade-surveillance)
 
 - Screen100 - Sanctions screening for people and companies against the OFAC and UN Security Council lists, with a 0 to 100 match score and a cited source entry for each hit; free plan with 50 screens a month and API access. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.screen100.com/)
 
@@ -97,6 +97,10 @@ Commercial tools are useful for discovery:
 
 - spaCy / Hugging Face - NLP pipelines for policy violations, collusion cues. [![Code](https://img.shields.io/badge/Code-spaCy-2DA44E)](https://github.com/explosion/spaCy) [![Code](https://img.shields.io/badge/Code-HuggingFace-2DA44E)](https://github.com/huggingface)
 
+- Sentence Transformers - Text embedding and semantic similarity models useful for contextual communication analysis, suspicious message retrieval and conduct surveillance. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/UKPLab/sentence-transformers)
+
+- Microsoft Presidio - Sensitive information detection and anonymization toolkit useful for identifying potential information leakage and protecting personal data in communication surveillance workflows. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/microsoft/presidio)
+
 ## Fraud Detection
 
 - PyOD - Outlier detection toolbox for fraud features. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/yzhao062/pyod)
@@ -117,7 +121,7 @@ Commercial tools are useful for discovery:
 
 - EU Sanctions Screen - Name, alias and ID screening against the EU Consolidated Financial Sanctions List (DG FISMA), with exact and fuzzy "possible match" results and the list publication date on each record; Apify Actor, pay-per-event (Apify free credits apply), MIT-licensed code. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://apify.com/itulo/eu-sanctions-screen) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/itulo/eu-nordic-open-data-mcp/tree/main/tools/eu-sanctions-screen)
 
-- Moov Watchman - Open-source sanctions and watchlist screening (OFAC SDN, US CSL, EU, UK and more) with fuzzy name matching, offered as an HTTP API, Go library, and Docker image. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://moov-io.github.io/watchman/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/moov-io/watchman)
+- Moov Watchman - Open-source sanctions and watchlist screening (OFAC SDN, US CSL, EU, UK and more) with fuzzy name matching, offered as an HTTP API, Go library and Docker image. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://moov-io.github.io/watchman/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/moov-io/watchman)
 
 - OfacMatch - Open-source OFAC SDN name screening with an explanation for every potential match; browser CSV screening with an audit file, self-hosted REST API, Python and .NET clients. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://krunalsolanki.github.io/ofac-match/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/krunalsolanki/ofac-match)
 
@@ -142,21 +146,21 @@ Commercial tools are useful for discovery:
 
 - SpainCompanyAPI - Spanish company KYB by tax ID (CIF/NIF): registry status derived from the BORME gazette with date and source, current directors, legal name and VIES checks, tax IDs revoked by the Tax Agency and EU/UN/OFAC sanctions screening; REST API with a free plan, MIT-licensed SDKs and MCP server. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://spaincompanyapi.com) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/abasmartinc/apiempresas-mcp)
 
-- Kausate - Real-time KYB API connected to official company registers with global coverage, including reports, shareholders/UBO, financials, original filings with a timestamp and hash, and monitoring webhooks. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://kausate.com)
+- Kausate - Real-time KYB API connected to official company registers with global coverage, including reports, shareholders/UBO, financials, original filings with a timestamp and hash and monitoring webhooks. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://kausate.com)
 
 ## Adverse Media & Negative News Screening
 
-Tools and data sources for identifying financial crime risks through news monitoring, adverse media intelligence, and customer due diligence.
+Tools and data sources for identifying financial crime risks through news monitoring, adverse media intelligence and customer due diligence.
 
-- Dow Jones Factiva - Global news research platform providing access to licensed news sources, company information, and historical media coverage for adverse media investigations and enhanced due diligence. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.dowjones.com/professional/factiva/)
+- Dow Jones Factiva - Global news research platform providing access to licensed news sources, company information and historical media coverage for adverse media investigations and enhanced due diligence. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.dowjones.com/professional/factiva/)
 
-- Dow Jones Risk & Compliance - Financial crime risk intelligence and screening solutions supporting adverse media checks, sanctions screening, and customer due diligence. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.dowjones.com/professional/risk/)
+- Dow Jones Risk & Compliance - Financial crime risk intelligence and screening solutions supporting adverse media checks, sanctions screening and customer due diligence. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.dowjones.com/professional/risk/)
 
-- LSEG World-Check - Risk intelligence and adverse media screening for customer due diligence, financial crime investigations, and ongoing monitoring. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.lseg.com/en/risk-intelligence/financial-crime-risk-management/adverse-media-screening)
+- LSEG World-Check - Risk intelligence and adverse media screening for customer due diligence, financial crime investigations and ongoing monitoring. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.lseg.com/en/risk-intelligence/financial-crime-risk-management/adverse-media-screening)
 
 - ComplyAdvantage - AI-assisted adverse media screening and negative news monitoring for AML compliance and customer risk assessment. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://complyadvantage.com/fincrime-risk-intelligence/negative-news-screening-tool/)
 
-- GDELT Project - Open global news and event datasets suitable for investigative research, entity monitoring, and NLP-based adverse media analysis. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.gdeltproject.org/)
+- GDELT Project - Open global news and event datasets suitable for investigative research, entity monitoring and NLP-based adverse media analysis. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.gdeltproject.org/)
 
 ## Case Management & Investigation
 
