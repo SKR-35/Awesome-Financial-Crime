@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.7.0] - 2026-11-28
+
+### Added
+
+- Added **Beneficial Ownership (UBO) & Corporate Transparency** as a new section, featuring Open Ownership, Beneficial Ownership Data Standard (BODS), OpenCorporates and GLEIF.
+- Added **Sentence Transformers** to E-Comms / Conduct Surveillance for semantic similarity, contextual communication analysis and suspicious message retrieval.
+- Added **Microsoft Presidio** to E-Comms / Conduct Surveillance for sensitive information detection, information leakage analysis and data anonymization.
+
+### Changed
+
+- Updated the README Table of Contents to include the new beneficial ownership section.
+- Expanded E-Comms / Conduct Surveillance from one to three resource entries.
+- Strengthened coverage of beneficial ownership, corporate transparency, enhanced due diligence and communication surveillance.
+- Expanded the resource catalogue while maintaining concise, vendor-neutral descriptions and consistent Website / Code badges.
+
+### CI / Quality
+
+- Added targeted URL exclusions for Kausate (HTTP 429) and SanctionsKit (HTTP 402) in the automated link-check workflow.
+- Retained both resources in the README pending future reassessment of the excluded URLs.
+- Confirmed that CI workflows pass following the resource expansion and link-check adjustments.
+
 ## 2026 November
 
 ### Community Contributions
@@ -36,8 +57,8 @@ All notable changes to this project will be documented in this file.
 
 ### Community Contributions
 
-- Integrated community-contributed resources across sanctions screening, maritime intelligence, company due diligence, KYC/KYB, cryptocurrency investigations, and regulatory datasets.
-- Added new resources including china-usci, FreezeRadar, CPT Engineering Company Due Diligence Check, HullCipher, CryptoStrapon Scam Investigations, and VASP Tracker.
+- Integrated community-contributed resources across sanctions screening, maritime intelligence, company due diligence, KYC/KYB, cryptocurrency investigations and regulatory datasets.
+- Added new resources including china-usci, FreezeRadar, CPT Engineering Company Due Diligence Check, HullCipher, CryptoStrapon Scam Investigations and VASP Tracker.
 - Expanded coverage of practical financial crime investigation tools and publicly available compliance datasets.
 - Continued improving the curated resource catalogue through external pull requests and contributor participation.
 
