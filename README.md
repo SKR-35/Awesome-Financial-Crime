@@ -121,6 +121,8 @@ Commercial tools are useful for discovery:
 
 - OfacMatch - Open-source OFAC SDN name screening with an explanation for every potential match; browser CSV screening with an audit file, self-hosted REST API, Python and .NET clients. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://krunalsolanki.github.io/ofac-match/) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/krunalsolanki/ofac-match)
 
+- watchlist-diff - Dated log of OFAC SDN/Non-SDN list changes converted into regression fixtures (new aliases, transliterations, native-script forms) for name-matching and screening systems. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/RishabhPande/watchlist-diff)
+
 ## KYC / KYB / Customer Risk
 
 - Great Expectations - Data quality gates for KYC feeds. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/great-expectations/great_expectations)
